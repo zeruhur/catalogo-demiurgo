@@ -1,0 +1,83 @@
+// Basic info: title, author, etc.
+= Il catalogo del Demiurgo: Guida Pratica alla Creazione di Mondi
+:author: Roberto Bisceglie
+//:email: author@example.com
+:revnumber: v0.1
+:revdate: 18/07/2024
+:data-uri:
+//:description: 
+//
+//
+// Bibliography
+//:bibtex-file: capitoli/bibliografia.bibtex
+//:bibtex-order: alphabetical
+//:bibtex-style: ieee
+//
+// Doc Settings
+:media: preprint
+//:pdf-page-size: [6in, 9in]
+//:pdf-page-margin: [0.7in]
+:pdf-theme: theme.yml
+:pdf-fontsdir: {docdir}/fonts/
+:imagesdir: {docdir}/img/
+:hyphens: it
+:autofit-option:
+//
+// Render as a book; each chapter will get its own section.
+:doctype: book
+//
+// Set the cover image
+//:front-cover-image: image:images/cover.svg[fit=cover]
+//
+// Don't display a title page, since we have a cover image.
+//:notitle:
+//
+//
+// Prefix nmbered chapter titles with "Chapter"
+:chapter-label: Capitolo
+//
+// Add a table of contents
+:toc: left
+:toclevels: 2
+:toc-title: Sommario
+//
+// Number the first 2 levels of headings.
+:sectnumlevels: 2
+//
+// Hide the scheme from links in the text.
+// e.g. a link to https://github.com/ should appear as github.com/.
+:hide-uri-scheme:
+//
+// Use rouge for source highlighting, and set the style.
+//:source-highlighter: rouge
+//:rouge-style: github
+//:tabsize: 4
+// Icons
+:icons: font
+// -- Book content includes --
+// Include the non-numbered sections (preface, introduction, etc).
+:sectnums!:
+//
+include::0001_colophon.adoc[]
+//
+include::01_introduzione.adoc[]
+// Include the numbered chapters.
+:partnums:
+:sectnums:
+//
+= Le basi dell'ambientazione
+//
+include::02_nucleo_ambientazione.adoc[]
+//
+
+//
+:sectnums!:
+:partnums!:
+//
+include::appendice.adoc[]
+//
+//== Bibliografia
+//bibliography::[]
+[index]
+== Indice
+//

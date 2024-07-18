@@ -1,0 +1,52 @@
+extends: default
+font:
+  catalog:
+    PT Sans Narrow:
+      normal: PTSansNarrow-Regular.ttf
+      bold: PTSansNarrow-Bold.ttf
+    Raleway:
+      normal: Raleway-Medium.ttf
+      italic: Raleway-MediumItalic.ttf
+      bold: Raleway-Bold.ttf
+      bold_italic: Raleway-BoldItalic.ttf
+    M+ 1mn:
+      normal: GEM_FONTS_DIR/mplus1mn-regular-subset.ttf
+      bold: GEM_FONTS_DIR/mplus1mn-bold-subset.ttf
+      italic: GEM_FONTS_DIR/mplus1mn-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/mplus1mn-bold_italic-subset.ttf
+page:
+  size: [6in, 9in]
+  margin: [0.6in, 1in, 1in, 1in]
+  margin-inner: 0.25in
+  numbering:
+    start-at: 2
+#  margin-outer: 0.59in
+heading-part:
+  break-before: always
+  break-after: auto
+heading-chapter:
+  break-before: auto
+heading:
+  font-family: PT Sans Narrow
+  font-style: bold
+  margin-bottom: 4
+  margin-top: 4
+prose:
+  margin-bottom: 6
+  #margin-inner: 0
+  #text-indent-inner: 9
+list:
+  item_spacing: 4
+footer:
+  height: 0.8in
+  line-height: 2
+base:
+  font-family: Raleway
+  font-size: 10.5
+table:
+  font-size: 9
+quote:
+  font-size: 10
+  font-style: italic
+  background-color: #CCCCCC
+  border-radius: 4
