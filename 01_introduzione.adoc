@@ -198,7 +198,7 @@ spazio all’immaginazione del lettore o del giocatore. Ad esempio, invece
 di descrivere ogni singolo edificio di una città, menziona solo i punti
 salienti.
 
-==== Approfondimento sull’importanza di evitare il sovraccarico di informazioni
+==== Evitare il sovraccarico di informazioni
 
 Evitare il sovraccarico di informazioni mantiene il tuo mondo:
 

@@ -28,8 +28,8 @@ praterie si trovano in regioni di pioggia moderata.
 coerenti con la loro geografia e clima. Gli animali e le piante
 dovrebbero adattarsi agli ambienti in cui vivono.
 
-*Approfondimento di Geografia e Geologia di Base*: 
-
+.*Geografia e Geologia di Base*: 
+****
 - *Montagne*: Formate
 da movimenti tettonici; catene montuose spesso si trovano lungo i
 confini delle placche tettoniche. 
@@ -41,6 +41,7 @@ formarsi a causa di ombre pluviometriche.
 - *Foreste e Praterie*: Le
 foreste crescono in aree umide, mentre le praterie si trovano in regioni
 con precipitazioni moderate.
+****
 
 ==== Bilanciamento tra realismo e fantasia
 
@@ -122,7 +123,7 @@ e nidi di draghi.
 . *Coerenza Interna*:
 * *Fiume della Vita*: Il fiume magico che scorre dalle Montagne
 Fluttuanti, con acque che brillano di notte. La sua origine mistica è
-legata ai cristalli energetici scoperti nelle rovine di Neo-Tokyo.
+legata ai cristalli energetici scoperti nelle rovine di Nekya.
 
 === Importanza della Scala e delle Proporzioni
 
@@ -409,7 +410,7 @@ l’accesso all’acqua. I commercianti utilizzano il fiume per il
 trasporto, e le risorse magiche del fiume sostengono l’economia locale.
 ****
 
-==== Approfondimento su come integrare elementi fantastici in modo credibile
+==== Integrare elementi fantastici in modo credibile
 
 [arabic]
 . *Ragioni Geologiche e Magiche*: Fornisci spiegazioni che combinano
@@ -483,7 +484,7 @@ e cristalli magici per l’energia.
 tecnologie locali.
 ****
 
-.Approfondimento su Come Integrare Elementi Fantastici in Modo Credibile
+.Integrare Elementi Fantastici in Modo Credibile
 ****
 [arabic]
 . *Foresta Magica di Shalah*:
@@ -497,9 +498,7 @@ abitanti locali.
 naturale del fiume e ai rituali di protezione.
 ****
 
-NOTE: Utilizzando questi principi, puoi creare una mappa che bilancia realismo
-e fantasia, rendendo il tuo mondo fantasy credibile e affascinante.
-L’integrazione di elementi fantastici, la creazione di luoghi iconici,
+NOTE: L’integrazione di elementi fantastici, la creazione di luoghi iconici,
 la considerazione della logica interna e l’approfondimento di come
 questi elementi si intersecano ti aiuteranno a costruire un mondo ricco
 e coinvolgente.

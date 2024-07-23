@@ -146,7 +146,7 @@ successive.
 ****
 - *La Battaglia di Shalah*: Un conflitto decisivo tra tribù
 per il controllo dell’oasi principale. 
-- *La Scoperta dei Cristalli Energetici*: Tecnologia avanzata trovata nelle rovine di Neo-Tokyo che
+- *La Scoperta dei Cristalli Energetici*: Tecnologia avanzata trovata nelle rovine di Nekya che
 ha rivoluzionato le pratiche agricole. 
 - *La Grande Tempesta di Sabbia*:
 Una catastrofe naturale che ha spazzato via città e modificato il
@@ -225,7 +225,7 @@ del Nord per il controllo dell’oasi principale.
 * *Impatto*: La vittoria delle tribù di Shalah ha consolidato il loro
 potere e portato alla fondazione di un’alleanza duratura tra le tribù.
 . *La Scoperta dei Cristalli Energetici*:
-* *Descrizione*: Durante l’esplorazione delle rovine di Neo-Tokyo, gli
+* *Descrizione*: Durante l’esplorazione delle rovine di Nekya, gli
 esploratori scoprono cristalli con proprietà energetiche uniche.
 * *Impatto*: Questa scoperta rivoluziona le tecnologie agricole e
 industriali, portando a un boom economico e a nuovi conflitti per il
@@ -241,7 +241,7 @@ portando a nuove alleanze e conflitti.
 [arabic]
 . *Rinascita Tecnologica*:
 * *Descrizione*: La riscoperta di antiche tecnologie nelle rovine di
-Neo-Tokyo.
+Nekya.
 * *Impatto*: Le innovazioni agricole portano a una maggiore produzione
 di cibo, influenzando la politica con nuove alleanze e scambi
 commerciali, e favorendo un rinascimento culturale con nuove forme
