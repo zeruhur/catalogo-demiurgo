@@ -2,7 +2,7 @@
 
 === Definizione di risorse e beni di scambio
 
-Per creare un’economia vibrante e complessa nel tuo mondo fantasy, è
+Per creare un’economia vibrante e complessa nel tuo mondo immaginario, è
 essenziale definire le risorse e i beni di scambio. Questo include
 l’identificazione di risorse naturali chiave e la loro distribuzione, la
 creazione di beni di lusso e prodotti esotici, lo sviluppo di industrie
@@ -174,7 +174,7 @@ un’economia ricca e complessa.
 === Creazione di rotte commerciali e centri economici
 
 La creazione di rotte commerciali e centri economici è essenziale per
-sviluppare un’economia dinamica e interconnessa nel tuo mondo fantasy.
+sviluppare un’economia dinamica e interconnessa nel tuo mondo immaginario.
 Questo include il disegno di vie commerciali terrestri e marittime, lo
 sviluppo di città mercantili e porti commerciali, e le considerazioni su
 commercio internazionale e diplomazia economica.
@@ -342,7 +342,7 @@ un’economia ricca e interconnessa.
 === 12.3 Sviluppo di sistemi monetari e pratiche commerciali
 
 Creare sistemi monetari e pratiche commerciali solidi è essenziale per
-rendere l’economia del tuo mondo fantasy credibile e funzionale. Questo
+rendere l’economia del tuo mondo immaginario credibile e funzionale. Questo
 include la creazione di valute e sistemi di baratto, l’elaborazione di
 pratiche bancarie e sistemi di credito, e lo sviluppo di gilde
 mercantili e monopoli commerciali.
@@ -353,9 +353,9 @@ mercantili e monopoli commerciali.
 . *Valute*: Definisci le valute utilizzate nel tuo mondo, considerando
 il loro valore, il materiale di cui sono fatte e le regioni in cui sono
 accettate.
-* *Esempio*: A Shalah, le principali valute sono il ``Draco d’Oro''
-(moneta d’oro), l’``Argento di Shalah'' (moneta d’argento) e il ``Rame
-del Deserto'' (moneta di rame), utilizzate rispettivamente per grandi
+* *Esempio*: A Shalah, le principali valute sono il "Draco d’Oro"
+(moneta d’oro), l’"Argento di Shalah" (moneta d’argento) e il "Rame
+del Deserto" (moneta di rame), utilizzate rispettivamente per grandi
 transazioni, commercio quotidiano e piccoli scambi.
 . *Sistemi di Baratto*: Descrivi come il baratto viene utilizzato nelle
 regioni meno sviluppate o tra culture che non utilizzano monete.
@@ -425,7 +425,7 @@ efficienza e il loro potenziale per creare disuguaglianze. - *Influenza
 Politica*: Esplora come le gilde mercantili e i monopoli influenzano la
 politica e le decisioni governative.
 
-'''''
+""'
 
 == Esempio Pratico Completo: Sistemi Monetari e Pratiche Commerciali di Shalah
 

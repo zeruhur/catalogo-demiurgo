@@ -1,13 +1,13 @@
 == Disegnare la Mappa
 
-Creare una mappa per il tuo mondo fantasy è un passo fondamentale per
+Creare una mappa per il tuo mondo immaginario è un passo fondamentale per
 dare vita alla tua ambientazione. Una buona mappa aiuta non solo a
 visualizzare il mondo, ma anche a mantenere la coerenza geografica e
-logica. Esaminiamo i principi di base della cartografia fantasy,
+logica. Esaminiamo i principi di base della cartografia,
 comprendendo la geografia e la geologia, bilanciando realismo e
 fantasia, e l’importanza della scala e delle proporzioni.
 
-=== Principi di base della cartografia fantasy
+=== Principi di base della cartografia
 
 ==== Comprensione di geografia e geologia di base
 
@@ -45,7 +45,7 @@ con precipitazioni moderate.
 
 ==== Bilanciamento tra realismo e fantasia
 
-Mentre il realismo è importante, il tuo mondo fantasy dovrebbe anche
+Mentre il realismo è importante, il tuo mondo immaginario dovrebbe anche
 includere elementi unici e affascinanti che distinguono la tua mappa.
 
 [arabic]
@@ -141,7 +141,7 @@ importanza visiva.
 * *Riferimenti Visivi*: Usa una griglia per garantire che ogni elemento
 sia proporzionato correttamente rispetto agli altri.
 
-Utilizzando questi principi di base della cartografia fantasy, puoi
+Utilizzando questi principi di base della cartografia, puoi
 creare una mappa dettagliata e coerente che aggiunge profondità e
 realismo al tuo mondo. La comprensione della geografia e della geologia,
 il bilanciamento tra realismo e fantasia, e l’importanza della scala e
@@ -150,7 +150,7 @@ delle proporzioni sono fondamentali per disegnare una mappa efficace.
 === Strumenti e tecniche per il disegno di mappe
 
 Per disegnare una mappa dettagliata e accattivante per il tuo mondo
-fantasy, è importante scegliere gli strumenti giusti e applicare
+immaginario, è importante scegliere gli strumenti giusti e applicare
 tecniche efficaci. Vediamo una panoramica degli strumenti digitali e
 analogici, tecniche per rappresentare diversi tipi di terreno, la
 creazione di una legenda efficace e un confronto tra vari software di
@@ -240,7 +240,7 @@ principianti.
 - *Contro*: Limitato nelle personalizzazioni avanzate,
 richiede abbonamento per funzionalità complete. 
 - *Ideale per*: Creare
-mappe fantasy dettagliate con facilità, ideale per campagne di GdR.
+mappe dettagliate con facilità, ideale per campagne di GdR.
 
 *Wonderdraft*: 
 
@@ -327,7 +327,7 @@ qualità.
 * *Contro*: Interfaccia meno intuitiva.
 
 Utilizzando questi strumenti e tecniche, puoi disegnare una mappa
-dettagliata e coinvolgente per il tuo mondo fantasy. Sperimenta con
+dettagliata e coinvolgente per il tuo mondo immaginario. Sperimenta con
 strumenti analogici e digitali, applica tecniche efficaci per
 rappresentare vari tipi di terreno e crea una legenda chiara per
 migliorare la leggibilità della tua mappa.

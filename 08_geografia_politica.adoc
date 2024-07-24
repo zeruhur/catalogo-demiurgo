@@ -2,7 +2,7 @@
 
 === Definizione di confini e territori
 
-La geografia politica del tuo mondo fantasy gioca un ruolo cruciale nel
+La geografia politica del tuo mondo immaginario gioca un ruolo cruciale nel
 determinare le dinamiche di potere, le relazioni tra le diverse culture
 e le sfide che i personaggi devono affrontare. In questa sezione,
 esamineremo le considerazioni sulla formazione dei confini, la creazione
@@ -148,7 +148,7 @@ un mondo complesso e realistico.
 
 === Creazione di nazioni e stati
 
-Creare nazioni e stati nel tuo mondo fantasy è fondamentale per dare
+Creare nazioni e stati nel tuo mondo immaginario è fondamentale per dare
 struttura e profondità alla tua ambientazione. Questo include lo
 sviluppo di sistemi di governo diversificati, la definizione di capitali
 e centri di potere, la creazione di simboli nazionali e identità
@@ -218,7 +218,7 @@ governative.
 avvolto in una corona di cristalli.
 . *Inni e Canti*: Le canzoni patriottiche e gli inni nazionali uniscono
 il popolo e rafforzano il senso di appartenenza.
-* *Esempio*: L’inno del Regno di Shalah, ``La Gloria del Drago'', è
+* *Esempio*: L’inno del Regno di Shalah, "La Gloria del Drago", è
 cantato durante le cerimonie ufficiali e le celebrazioni nazionali.
 . *Leggende e Miti*: Le storie e le leggende che spiegano le origini del
 popolo, le loro conquiste e i loro eroi.
@@ -297,7 +297,7 @@ potere e protezione.
 * *Stemma della Famiglia Reale di Shalah*: Drago avvolto in una corona
 di cristalli.
 . *Inni e Canti*:
-* *Inno del Regno di Shalah*: ``La Gloria del Drago'', cantato durante
+* *Inno del Regno di Shalah*: "La Gloria del Drago", cantato durante
 le cerimonie ufficiali e le celebrazioni nazionali.
 . *Leggende e Miti*:
 * *Leggenda del Drago di Shalah*: Narra di come il drago abbia protetto
@@ -336,7 +336,7 @@ geografia politica complessa e realistica.
 === Dinamiche di potere e relazioni internazionali
 
 Le dinamiche di potere e le relazioni internazionali sono cruciali per
-creare un mondo fantasy complesso e realistico. Vediamo come elaborare
+creare un mondo immaginario complesso e realistico. Vediamo come elaborare
 alleanze e rivalità tra nazioni, creare organizzazioni internazionali o
 supernazionali, e gestire conflitti e diplomazia su scala globale.
 

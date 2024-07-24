@@ -2,7 +2,7 @@
 
 === Creazione di regioni e biomi distintivi
 
-Per costruire un mondo fantasy immersivo e realistico, è essenziale
+Per costruire un mondo immaginario immersivo e realistico, è essenziale
 definire regioni e biomi distintivi. Questo implica comprendere i
 principali tipi di terreno e clima, creare ecosistemi unici, e
 considerare come la geografia influenza cultura e società. Inoltre,
@@ -160,8 +160,7 @@ biomi.
 
 === Definizione di caratteristiche geografiche uniche
 
-La creazione di caratteristiche geografiche uniche rende il tuo mondo
-fantasy memorabile e avvincente. Vediamo come creare punti di
+La creazione di caratteristiche geografiche uniche rende il tuo mondo immaginario memorabile e avvincente. Vediamo come creare punti di
 riferimento naturali iconici, integrare elementi geografici nella storia
 e nella cultura, utilizzare la geografia per creare sfide e opportunità
 narrative, e tecniche per rendere i punti di riferimento memorabili.
@@ -237,7 +236,7 @@ punti di riferimento. Questo aiuta a creare un’esperienza immersiva per
 il lettore o il giocatore.
 . *Personificazione*: Attribuisci qualità umane ai punti di riferimento,
 rendendoli quasi personaggi a sé stanti. Questo può includere leggende
-su come la montagna ``guarda'' sulla valle o il fiume ``canta'' durante
+su come la montagna "guarda" sulla valle o il fiume "canta" durante
 la notte.
 . *Cambiamenti nel Tempo*: Mostra come i punti di riferimento cambiano
 nel corso delle stagioni o degli eventi. Questo può includere
@@ -254,7 +253,7 @@ memorabili nelle loro avventure.
 sotto il sole, emettendo un suono melodico quando il vento le
 attraversa. La superficie è fredda al tatto e riflette la luce in modo
 abbagliante.
-* *Personificazione*: Si dice che la torre ``canti'' una canzone triste
+* *Personificazione*: Si dice che la torre "canti" una canzone triste
 nelle notti di tempesta, come se piangesse per un amore perduto.
 * *Cambiamenti nel Tempo*: Durante l’inverno, i cristalli si coprono di
 ghiaccio, creando una visione mozzafiato che attira visitatori da ogni
@@ -320,7 +319,7 @@ affascinante.
 
 === 6.3 Considerazioni climatiche e meteorologiche
 
-Quando crei un mondo fantasy, è importante considerare il clima e i
+Quando crei un mondo immaginario, è importante considerare il clima e i
 fenomeni meteorologici, poiché questi elementi influenzano profondamente
 la vita quotidiana, la cultura e l’economia. Esaminiamo le basi di
 climatologia per mondi immaginari, la creazione di fenomeni

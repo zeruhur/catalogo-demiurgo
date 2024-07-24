@@ -69,7 +69,7 @@ include::01_introduzione.adoc[]
 //
 include::02_nucleo_ambientazione.adoc[]
 //
-
+include::03_metodo_frattale.adoc[]
 //
 :sectnums!:
 :partnums!:
@@ -78,6 +78,6 @@ include::02_nucleo_ambientazione.adoc[]
 //
 //== Bibliografia
 //bibliography::[]
-[index]
-== Indice
+//[index]
+//== Indice
 //
