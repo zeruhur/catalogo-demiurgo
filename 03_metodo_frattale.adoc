@@ -80,14 +80,14 @@ applicare queste tecniche in modo pratico per espandere ogni aspetto
 della tua ambientazione. Pronto a immergerti nei dettagli? Andiamo
 avanti!
 
-== Principi fondamentali del design frattale
+=== Principi fondamentali del design frattale
 
 Nel worldbuilding, i principi del design frattale ti permettono di
 creare un mondo complesso e dettagliato, mantenendo coerenza e armonia.
 Esploriamo questi principi e vediamo come applicarli alla creazione
 della tua ambientazione.
 
-=== Auto-similitudine: ripetizione di modelli a scale diverse
+==== Auto-similitudine: ripetizione di modelli a scale diverse
 
 *Auto-similitudine* significa che un modello o un pattern si ripete a
 diverse scale. Nel contesto del worldbuilding, questo significa che le
@@ -102,7 +102,7 @@ scala dovrebbero riflettersi anche su scale più piccole.
       - **Quartieri**: I quartieri delle città mostrano variazioni locali dello stile architettonico e delle abitudini, riflettendo le influenze regionali e continentali.
 ****
 
-=== Complessità infinita: dettagli che emergono a ogni livello di zoom
+==== Complessità infinita: dettagli che emergono a ogni livello di zoom
 
 *Complessità infinita* implica che ogni livello di dettaglio nel tuo
 mondo rivela ulteriori livelli di complessità. A ogni "zoom" verso una
@@ -118,7 +118,7 @@ l’ambientazione.
 
 ****
 
-=== Dimensione frattale: misurare la complessità dell’ambientazione
+==== Dimensione frattale: misurare la complessità dell’ambientazione
 
 La *dimensione frattale* è un concetto matematico usato per misurare la
 complessità di un frattale. Nel worldbuilding, possiamo usare questo
@@ -141,7 +141,7 @@ livello di dettaglio si integra e rispecchia il livello superiore?
 3. *Identifica le connessioni*: Quante connessioni narrative e logiche
 esistono tra i diversi elementi del tuo mondo?
 
-=== Esercizio pratico: analizzare un’ambientazione esistente in chiave frattale
+==== Esercizio pratico: analizzare un’ambientazione esistente in chiave frattale
 
 Per mettere in pratica i principi del design frattale, scegli
 un’ambientazione esistente (da un libro, film, gioco) e analizzala in
@@ -173,14 +173,14 @@ NOTE: Questo esercizio ti aiuterà a comprendere come applicare il metodo
 frattale al tuo worldbuilding, assicurandoti che ogni livello del tuo
 mondo sia dettagliato, coerente e complesso.
 
-== Applicare il pensiero frattale alla costruzione del mondo
+=== Applicare il pensiero frattale alla costruzione del mondo
 
 Ora che conosci i principi fondamentali del design frattale, vediamo
 come applicare concretamente il pensiero frattale alla costruzione del
 tuo mondo. Questo ti aiuterà a creare una struttura gerarchica coerente
 e dettagliata, mantenendo un’armonia tra i vari livelli di dettaglio.
 
-=== Creazione di una struttura gerarchica per l’ambientazione
+==== Creazione di una struttura gerarchica per l’ambientazione
 
 Per applicare il pensiero frattale al tuo worldbuilding, inizia creando
 una struttura gerarchica per la tua ambientazione. Questa struttura
@@ -207,7 +207,7 @@ luoghi di interesse specifici.
 * Infine, dettaglia le famiglie influenti e i personaggi principali che
 popolano questi luoghi.
 
-=== Definizione di "livelli di zoom" per ogni aspetto del mondo
+==== Definizione di "livelli di zoom" per ogni aspetto del mondo
 
 I "livelli di zoom" ti permettono di esplorare ogni aspetto del mondo
 con un livello di dettaglio appropriato, partendo da una visione
@@ -232,7 +232,7 @@ popolano.
 * Dettagli di un singolo edificio o famiglia: layout degli edifici,
 storie personali dei membri della famiglia.
 
-=== Tecniche per garantire coerenza tra i diversi livelli di dettaglio
+==== Tecniche per garantire coerenza tra i diversi livelli di dettaglio
 
 [arabic]
 . *Riferimenti incrociati*: Assicurati che i dettagli introdotti a un
@@ -284,13 +284,13 @@ tecniche per sviluppare ulteriormente la tua ambientazione,
 assicurandoti che ogni nuovo dettaglio si integri perfettamente con
 l’intero mondo.
 
-== Tecniche per l’espansione progressiva dei dettagli
+=== Tecniche per l’espansione progressiva dei dettagli
 
 Espandere i dettagli del tuo mondo in modo progressivo e coerente è
 essenziale per creare un’ambientazione ricca e complessa. Vediamo alcune
 tecniche specifiche per farlo.
 
-=== Metodo del "drilling down": approfondire progressivamente ogni elemento
+==== Metodo del "drilling down": approfondire progressivamente ogni elemento
 
 Il metodo del "drilling down" consiste nell’approfondire gradualmente
 ogni elemento del tuo mondo, partendo da una visione d’insieme e
@@ -331,7 +331,7 @@ riunioni del consiglio e un giardino con una fontana.
 per invocare la pioggia, con canti, danze e offerte sacrificali.
 ****
 
-=== Creazione di "semi narrativi" per future espansioni
+==== Creazione di "semi narrativi" per future espansioni
 
 I "semi narrativi" sono spunti e idee che possono essere sviluppati in
 futuro per arricchire ulteriormente il tuo mondo. Ecco come crearli:
@@ -357,7 +357,7 @@ Un amuleto trovato nel deserto che sembra emanare un’energia
 sconosciuta.
 ****
 
-=== Uso di template scalabili per mantenere la coerenza
+==== Uso di template scalabili per mantenere la coerenza
 
 L’uso di template scalabili ti aiuta a mantenere la coerenza e
 l’organizzazione mentre espandi il tuo mondo. Ecco un esempio di
@@ -395,7 +395,7 @@ e al Quartiere Residenziale; è frequentato da visitatori di altre tribù
 e regioni.
 ****
 
-=== Esercizio pratico: espandere un elemento dell’ambientazione su tre livelli di dettaglio
+==== Esercizio pratico: espandere un elemento dell’ambientazione su tre livelli di dettaglio
 
 
 .**Elemento di partenza**: Tempio dell'Oasi
@@ -417,14 +417,14 @@ NOTE: Con queste tecniche e l’esercizio pratico, puoi espandere ogni elemento
 del tuo mondo in modo dettagliato e coerente, creando un’ambientazione
 ricca e complessa che mantiene la coerenza a tutti i livelli.
 
-== Mantenere la coerenza durante l’espansione
+=== Mantenere la coerenza durante l’espansione
 
 Espandere il tuo mondo mantenendo la coerenza richiede un sistema
 organizzato per tracciare e gestire le informazioni. Vediamo come creare
 un sistema di riferimento incrociato, utilizzare tecniche e strumenti
 per gestire i dati e mantenere tutto coerente.
 
-=== Creazione di un sistema di riferimento incrociato
+==== Creazione di un sistema di riferimento incrociato
 
 Un sistema di riferimento incrociato ti aiuta a collegare e mantenere
 traccia delle informazioni del tuo mondo in modo coerente.
@@ -457,7 +457,7 @@ dettagli correlati.
 ** La Prima Guerra delle Oasi
 ****
 
-=== Tecniche per tracciare e gestire le informazioni dell’ambientazione
+==== Tecniche per tracciare e gestire le informazioni dell’ambientazione
 
 [arabic]
 . *Mappe mentali*: Usa mappe mentali per visualizzare le connessioni tra
@@ -473,7 +473,7 @@ siano coerenti.
 ogni volta che aggiungi nuovi dettagli. Controlla che non ci siano
 contraddizioni con le informazioni esistenti.
 
-=== Utilizzo di software e strumenti per organizzare grandi quantità di dati
+==== Utilizzo di software e strumenti per organizzare grandi quantità di dati
 
 [arabic]
 . *Notion*: Un potente strumento di organizzazione che ti permette di
@@ -490,7 +490,7 @@ documenti e ricerche in un formato strutturato.
 di un database. Perfetto per tracciare dettagli complessi e creare
 relazioni tra diversi set di dati.
 
-=== Esempio: gestione di un’ambientazione complessa in evoluzione
+==== Esempio: gestione di un’ambientazione complessa in evoluzione
 
 .**Gestione dell'ambientazione di Shalah**
 ****
@@ -515,14 +515,14 @@ relazioni tra diversi set di dati.
    - **Eventi**: Gli eventi devono seguire una sequenza logica e non contraddire quelli precedentemente stabiliti.
 ****
 
-== Gestire ((retcon)) e modifiche all’ambientazione esistente
+=== Gestire ((retcon)) e modifiche all’ambientazione esistente
 
 Nel processo di espansione del tuo mondo, potresti trovare necessario
 apportare modifiche o integrare nuove idee che non erano previste
 inizialmente. È fondamentale gestire queste modifiche in modo che si
 integrino senza contraddire gli elementi esistenti. Vediamo come fare.
 
-=== Strategie per integrare nuove idee senza contraddire elementi esistenti
+==== Strategie per integrare nuove idee senza contraddire elementi esistenti
 
 [arabic]
 . *Analisi delle conseguenze*: Prima di introdurre una nuova idea,
@@ -552,7 +552,7 @@ che suggeriscono l’esistenza di questa tecnologia.
 Culto dell’Oasi e alla storia della Grande Desertificazione.
 ****
 
-=== Tecniche di ((retcon)) "morbido" per minimizzare l’impatto sui dettagli esistenti
+==== Tecniche di ((retcon)) "morbido" per minimizzare l’impatto sui dettagli esistenti
 
 [arabic]
 . *Riconciliazione*: Invece di eliminare contraddizioni, cerca modi per
@@ -578,7 +578,7 @@ desertificazione è avvenuta vaghi, permettendo una reinterpretazione con
 le nuove informazioni.
 ****
 
-=== Come comunicare i cambiamenti ai lettori/giocatori
+==== Come comunicare i cambiamenti ai lettori/giocatori
 
 [arabic]
 . *Trasparenza*: Comunica apertamente le modifiche, spiegando il motivo
@@ -603,7 +603,7 @@ idee su come la tecnologia potrebbe essere utilizzata nel mondo.
 per includere le nuove informazioni.
 ****
 
-=== Esercizio pratico: integrare un nuovo elemento maggiore in un’ambientazione esistente
+==== Esercizio pratico: integrare un nuovo elemento maggiore in un’ambientazione esistente
 
 
 .**Nuovo Elemento**: Introduzione di una setta segreta che protegge la tecnologia perduta dell'acqua.
@@ -642,7 +642,7 @@ per includere le nuove informazioni.
 - **Wiki Update**: Aggiungi una sezione sulla Guardia dell'Oasi, descrivendo la loro storia, simboli e missioni.
 ****
 
-== Strumenti e Metodi per il Worldbuilding Frattale
+=== Strumenti e Metodi per il Worldbuilding Frattale
 
 Per applicare efficacemente il ((metodo frattale)) al worldbuilding, è
 essenziale utilizzare strumenti e metodi che ti permettano di gestire e
@@ -651,7 +651,7 @@ specializzati, tecniche di mappatura mentale, uso di database
 relazionali e una revisione degli strumenti analogici e digitali
 disponibili.
 
-=== Software specializzati per la gestione di ambientazioni complesse
+==== Software specializzati per la gestione di ambientazioni complesse
 
 [arabic]
 . *World Anvil*: Questo è uno dei software più completi per il
@@ -670,7 +670,7 @@ grandi quantità di informazioni.
 creare database, pagine interconnesse e note dettagliate. Perfetto per
 tracciare i dettagli complessi del tuo mondo e mantenerli aggiornati.
 
-=== Tecniche di mappatura mentale per visualizzare connessioni frattali
+==== Tecniche di mappatura mentale per visualizzare connessioni frattali
 
 Le mappe mentali sono eccellenti per visualizzare le connessioni tra i
 vari elementi del tuo mondo in modo frattale.
@@ -686,7 +686,7 @@ visualizzare le connessioni frattali tra diversi livelli di dettaglio.
 di creare mappe mentali che possono essere facilmente condivise e
 modificate in tempo reale.
 
-=== Uso di database relazionali per tracciare connessioni tra elementi
+==== Uso di database relazionali per tracciare connessioni tra elementi
 
 I database relazionali ti aiutano a tracciare connessioni complesse tra
 i vari elementi del tuo mondo, garantendo che tutte le informazioni
@@ -702,7 +702,7 @@ strumenti possono essere usati per creare database semplici. Puoi usare
 formule e collegamenti per tracciare connessioni tra diverse categorie
 di informazioni.
 
-=== Revisione di strumenti analogici e digitali per il worldbuilding frattale
+==== Revisione di strumenti analogici e digitali per il worldbuilding frattale
 
 Oltre ai software digitali, ci sono anche strumenti analogici che
 possono essere molto utili per il worldbuilding.
@@ -725,7 +725,7 @@ usata anche per il worldbuilding. Puoi creare schede per personaggi,
 luoghi, eventi, e usare le liste per tracciare il progresso e le
 connessioni.
 
-#### Esempio pratico: gestione di un’ambientazione complessa in evoluzione
+==== Esempio pratico: gestione di un’ambientazione complessa in evoluzione
 
 .*Esempio di Gestione con Strumenti Digitali*
 ****
@@ -769,7 +769,7 @@ con checklist per dettagli e note aggiuntive.
 personaggi e i loro collegamenti alle storie e agli eventi.
 ****
 
-== Applicazioni pratiche del ((metodo frattale))
+=== Applicazioni pratiche del ((metodo frattale))
 
 Il ((metodo frattale)) non è solo un concetto teorico, ma uno strumento
 pratico che può essere applicato in vari contesti creativi. Vediamo come
@@ -777,7 +777,7 @@ può essere utilizzato nel worldbuilding per romanzi, giochi di ruolo,
 videogiochi e altri media interattivi, con un esempio di analisi di
 un’ambientazione di successo.
 
-=== Nel worldbuilding per romanzi e serie letterarie
+==== Nel worldbuilding per romanzi e serie letterarie
 
 Quando crei un mondo per un romanzo o una serie letteraria, il metodo
 frattale ti permette di sviluppare un’ambientazione dettagliata e
@@ -803,7 +803,7 @@ principali sono descritte in dettaglio, con attenzione ai quartieri e
 alle famiglie nobili.
 ****
 
-=== Nella creazione di ambientazioni per giochi di ruolo
+==== Nella creazione di ambientazioni per giochi di ruolo
 
 Per i giochi di ruolo (GdR), il ((metodo frattale)) è particolarmente utile
 per creare un mondo che possa essere esplorato in modo interattivo dai
@@ -827,7 +827,7 @@ le proprie avventure e pericoli. I giocatori esplorano città,
 interagiscono con PNG e affrontano sfide uniche in ogni regione.
 ****
 
-=== Esempio: analisi di un’ambientazione di successo creata con ((metodo frattale))
+==== Esempio: analisi di un’ambientazione di successo creata con ((metodo frattale))
 
 .**Esempio di analisi: Westeros da "Game of Thrones"**
 ****
@@ -842,7 +842,7 @@ interagiscono con PNG e affrontano sfide uniche in ogni regione.
 Westeros è un esempio eccellente di come il ((metodo frattale)) possa creare un mondo ricco e dettagliato, con livelli di profondità che aggiungono realismo e coerenza alla narrazione.
 ****
 
-== Limiti e sfide del metodo frattale
+=== Limiti e sfide del metodo frattale
 
 Il ((metodo frattale)) è uno strumento potente per il worldbuilding, ma
 presenta anche alcune sfide e limiti. Vediamo come affrontare queste
@@ -850,7 +850,7 @@ sfide per evitare la "paralisi da analisi", bilanciare profondità e
 ampiezza, gestire le aspettative di coerenza del pubblico e superare i
 blocchi creativi.
 
-=== Come evitare la "paralisi da analisi" e l’eccessiva complessità
+==== Come evitare la "paralisi da analisi" e l’eccessiva complessità
 
 Il rischio di concentrarsi troppo sui dettagli può portare alla
 "paralisi da analisi", dove si trascorre troppo tempo a perfezionare
@@ -871,7 +871,7 @@ quello successivo.
 dettagli. Questo riduce il tempo necessario per decidere cosa includere
 e ti aiuta a mantenere coerenza.
 
-=== Bilanciare profondità e ampiezza nell’espansione dell’ambientazione
+==== Bilanciare profondità e ampiezza nell’espansione dell’ambientazione
 
 Bilanciare la profondità (dettagli specifici) e l’ampiezza (varietà di
 elementi) è essenziale per creare un mondo ricco ma gestibile.
@@ -886,7 +886,7 @@ dettagli e dove puoi mantenere una visione più ampia.
 collaboratori per capire se ci sono parti del mondo che sembrano troppo
 superficiali o troppo dettagliate.
 
-=== Gestire le aspettative di coerenza del pubblico
+==== Gestire le aspettative di coerenza del pubblico
 
 Il pubblico tende a notare le incoerenze, quindi è importante mantenere
 un alto livello di coerenza.
@@ -903,7 +903,7 @@ la magia, ecc.
 . *Consistenza dei personaggi*: Assicurati che i personaggi agiscano in
 modo coerente con il loro background e le loro motivazioni.
 
-=== Strategie per superare i blocchi creativi nel worldbuilding frattale
+==== Strategie per superare i blocchi creativi nel worldbuilding frattale
 
 [arabic]
 . *Brainstorming*: Prenditi del tempo per un brainstorming libero, senza
@@ -921,7 +921,7 @@ attivamente.
 hanno mondi ben sviluppati. Questo può ispirarti e darti nuove idee per
 il tuo worldbuilding.
 
-=== Esempio: applicazione pratica per superare un blocco creativo
+==== Esempio: applicazione pratica per superare un blocco creativo
 
 .**Situazione**: Sei bloccato sulla creazione della cultura di una nuova tribù nel tuo mondo desertico.
 ****
