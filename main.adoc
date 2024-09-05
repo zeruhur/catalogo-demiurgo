@@ -71,11 +71,11 @@ include::02_nucleo_ambientazione.adoc[]
 //
 include::03_metodo_frattale.adoc[]
 //
-include::03_metodo_frattale.adoc[]
-//
 include::04_cronologia_storia.adoc[]
 //
 include::05_disegnare_mappe.adoc[]
+//
+= Dare spessore al mondo
 //
 include::06_geografia_fisica.adoc.adoc[]
 //
