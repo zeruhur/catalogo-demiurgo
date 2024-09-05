@@ -82,7 +82,7 @@ per evitare che il mondo sembri troppo stravagante o troppo banale.
 trasportano cristalli magici, fenici della foresta magica.
 ****
 
-== Esempio Pratico Completo: Sviluppo di Ecosistemi Coerenti per Shalah
+=== Esempio Pratico Completo: Sviluppo di Ecosistemi Coerenti per Shalah
 
 .Principi di Base di Ecologia Applicati a Mondi Fantastici
 ****
@@ -142,7 +142,7 @@ creare catene alimentari e relazioni simbiotiche, bilanciare creature
 reali e fantastiche, e approfondire i concetti ecologici aiuterà a
 rendere il tuo mondo più realistico e coinvolgente.
 
-=== Creazione di specie uniche e iconiche
+==== Creazione di specie uniche e iconiche
 
 Creare specie uniche e iconiche per il tuo mondo immaginario aggiunge
 profondità e fascino alla tua ambientazione. Vediamo le tecniche per il
@@ -150,7 +150,7 @@ design di creature fantastiche, lo sviluppo di piante con proprietà
 uniche o magiche, l’integrazione di nuove specie nell’ecosistema
 esistente, e l’uso di tecniche di concept art per creature e piante.
 
-==== Tecniche per il design di creature fantastiche
+===== Tecniche per il design di creature fantastiche
 
 [arabic]
 . *Ispirazione dalla Natura*: Usa elementi di animali reali per creare
@@ -173,7 +173,7 @@ pelle resistente al calore e la capacità di sputare fuoco. Vive nelle
 caverne sotterranee e caccia grandi prede nel deserto.
 ****
 
-==== Sviluppo di piante con proprietà uniche o magiche
+===== Sviluppo di piante con proprietà uniche o magiche
 
 [arabic]
 . *Proprietà Magiche*: Le piante possono avere proprietà magiche che
@@ -191,7 +191,7 @@ radici profonde per assorbire nutrienti.
 bioluminescenti che emettono luce durante la notte. Ha proprietà
 curative e viene utilizzata nei rituali di guarigione.
 
-==== Integrazione di nuove specie nell’ecosistema esistente
+===== Integrazione di nuove specie nell’ecosistema esistente
 
 [arabic]
 . *Equilibrio Ecologico*: Assicurati che le nuove specie si integrino
@@ -211,7 +211,7 @@ cristalli magici. Hanno una relazione simbiotica con le piante del
 deserto, impollinandole e aiutandole a crescere.
 ****
 
-==== Tecniche di concept art per creature e piante (anche con l’uso di IA generativa)
+===== Tecniche di concept art per creature e piante (anche con l’uso di IA generativa)
 
 [arabic]
 . *Sketching e Disegni Preliminari*: Inizia con schizzi preliminari per
@@ -237,7 +237,7 @@ Infine, utilizza un’IA generativa per esplorare varianti del design,
 come diverse configurazioni di ali o pattern di scaglie.
 ****
 
-== Esempio Pratico Completo: Creazione di Specie Uniche e Iconiche per Shalah
+=== Esempio Pratico Completo: Creazione di Specie Uniche e Iconiche per Shalah
 
 .Tecniche per il Design di Creature Fantastiche
 ****
@@ -296,7 +296,7 @@ piante magiche, l’integrazione nell’ecosistema esistente e l’uso di
 tecniche di concept art ti aiuteranno a costruire un mondo ricco e
 affascinante.
 
-=== Integrazione della flora e fauna nella cultura e nell’economia
+==== Integrazione della flora e fauna nella cultura e nell’economia
 
 Integrare la flora e la fauna nella cultura e nell’economia del tuo
 mondo immaginario aggiunge profondità e realismo. Vediamo come utilizzare
@@ -304,7 +304,7 @@ piante e animali nella medicina tradizionale, il ruolo delle creature
 nell’agricoltura e nell’industria, e l’impatto culturale e religioso di
 specie particolari.
 
-==== Utilizzo di piante e animali nella medicina tradizionale
+===== Utilizzo di piante e animali nella medicina tradizionale
 
 [arabic]
 . *Erbe Medicinali*: Identifica piante con proprietà curative che
@@ -325,7 +325,7 @@ proprietà bioluminescenti sono anche utilizzate in rituali di
 purificazione.
 ****
 
-==== Ruolo delle creature nell’agricoltura e nell’industria
+===== Ruolo delle creature nell’agricoltura e nell’industria
 
 [arabic]
 . *Animali da Lavoro*: Alcune creature possono essere addomesticate e
@@ -346,7 +346,7 @@ deserto, aumentandone la produttività. Producono anche una sostanza
 simile al miele, ricca di proprietà energetiche.
 ****
 
-==== Impatto culturale e religioso di specie particolari
+===== Impatto culturale e religioso di specie particolari
 
 [arabic]
 . *Simboli e Totem*: Alcune specie possono avere un significato
@@ -367,7 +367,7 @@ protezione. Le tribù del deserto costruiscono santuari in suo onore e
 credono che avvistare un drago porti fortuna e prosperità.
 ****
 
-== Esempio Pratico Completo: Integrazione della Flora e Fauna nella Cultura e nell’Economia di Shalah
+=== Esempio Pratico Completo: Integrazione della Flora e Fauna nella Cultura e nell’Economia di Shalah
 
 .Utilizzo di Piante e Animali nella Medicina Tradizionale
 ****

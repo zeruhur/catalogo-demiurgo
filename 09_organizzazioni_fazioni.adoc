@@ -75,7 +75,7 @@ rango.
 * *Esempio*: I membri della Mano Nera portano un anello con il simbolo
 dell’organizzazione, un pugnale nero, come segno di appartenenza.
 
-== Esempio Pratico Completo: Sviluppo di Gruppi di Potere per Shalah
+=== Esempio Pratico Completo: Sviluppo di Gruppi di Potere per Shalah
 
 .Creazione di Gilde, Ordini Religiosi, Società Segrete
 ****
@@ -164,7 +164,7 @@ gilde, ordini religiosi e società segrete, la definizione di strutture
 gerarchiche e leadership, e l’elaborazione di rituali e tradizioni
 interne contribuiranno a costruire un mondo ricco e complesso.
 
-=== Creazione di obiettivi e motivazioni per le fazioni
+==== Creazione di obiettivi e motivazioni per le fazioni
 
 Per rendere le fazioni nel tuo mondo immaginario più credibili e
 coinvolgenti, è essenziale definire obiettivi chiari e motivazioni
@@ -173,7 +173,7 @@ sviluppare piani a breve e lungo termine, creare conflitti interni ed
 esterni, e utilizzare tecniche di scrittura per creare obiettivi
 realistici e motivazioni credibili.
 
-==== Definizione di ideologie e filosofie distintive
+===== Definizione di ideologie e filosofie distintive
 
 [arabic]
 . *Ideologie*: Le ideologie rappresentano l’insieme di credenze, valori
@@ -196,7 +196,7 @@ influenzano le politiche e le azioni quotidiane della fazione.
 relazioni interne ed esterne della fazione.
 ****
 
-==== Sviluppo di piani a breve e lungo termine
+===== Sviluppo di piani a breve e lungo termine
 
 [arabic]
 . *Piani a Breve Termine*: Obiettivi immediati che una fazione vuole
@@ -220,7 +220,7 @@ dettagliati e specifici.
 per misurare il progresso verso gli obiettivi.
 ****
 
-==== Creazione di conflitti interni ed esterni
+===== Creazione di conflitti interni ed esterni
 
 [arabic]
 . *Conflitti Interni*: Tensioni e dispute all’interno della fazione, che
@@ -241,7 +241,7 @@ conflitti interni ed esterni.
 parte del conflitto ha a disposizione e come le utilizza.
 ****
 
-==== Tecniche di scrittura per creare obiettivi realistici e motivazioni credibili
+===== Tecniche di scrittura per creare obiettivi realistici e motivazioni credibili
 
 [arabic]
 . *Realismo*: Assicurati che gli obiettivi siano realistici e
@@ -265,7 +265,7 @@ nel tempo in risposta agli eventi e ai cambiamenti nel mondo.
 rivede i propri obiettivi e decide di concentrarsi sulla difesa dei
 santuari esistenti piuttosto che sull’espansione.
 
-== Esempio Pratico Completo: Creazione di Obiettivi e Motivazioni per le Fazioni di Shalah
+=== Esempio Pratico Completo: Creazione di Obiettivi e Motivazioni per le Fazioni di Shalah
 
 .Definizione di Ideologie e Filosofie Distintive
 ****
@@ -340,14 +340,14 @@ termine, la creazione di conflitti interni ed esterni, e l’uso di
 tecniche di scrittura per creare obiettivi realistici e motivazioni
 credibili contribuiranno a costruire un mondo ricco e complesso.
 
-=== Definizione di relazioni e conflitti tra organizzazioni
+==== Definizione di relazioni e conflitti tra organizzazioni
 
 Per rendere le relazioni e i conflitti tra organizzazioni nel tuo mondo
 immaginario coinvolgenti e realistiche, è importante mappare le alleanze e
 le rivalità, creare reti di influenza e potere, e sviluppare storie di
 tradimenti e colpi di scena.
 
-==== Mappatura delle alleanze e delle rivalità
+===== Mappatura delle alleanze e delle rivalità
 
 [arabic]
 . *Identificazione delle Alleanze*: Definisci quali organizzazioni sono
@@ -377,7 +377,7 @@ organizzazioni formano alleanze e quali benefici ne traggono.
 portato alle rivalità.
 ****
 
-==== Creazione di reti di influenza e potere
+===== Creazione di reti di influenza e potere
 
 [arabic]
 . *Reti di Influenza*: Definisci come le organizzazioni esercitano la
@@ -408,7 +408,7 @@ influenza.
 interne ed esterne si interconnettono e si influenzano reciprocamente.
 ****
 
-==== Sviluppo di storie di tradimenti e colpi di scena
+===== Sviluppo di storie di tradimenti e colpi di scena
 
 [arabic]
 . *Tradimenti*: Crea storie di tradimenti all’interno e tra le
@@ -445,7 +445,7 @@ i colpi di scena influenzano le dinamiche di potere e le relazioni tra
 le organizzazioni.
 ****
 
-== Esempio Pratico Completo: Relazioni e Conflitti tra Organizzazioni per Shalah
+=== Esempio Pratico Completo: Relazioni e Conflitti tra Organizzazioni per Shalah
 
 .Mappatura delle Alleanze e delle Rivalità
 ****
@@ -511,3 +511,4 @@ conflitti e blocchi economici.
 ****
 
 NOTE: La mappatura delle alleanze e delle rivalità, la creazione di reti di influenza e potere, e lo sviluppo di storie di tradimenti e colpi di scena contribuiranno a costruire un mondo ricco e complesso.
+

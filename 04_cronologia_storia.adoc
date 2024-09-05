@@ -125,13 +125,13 @@ NOTE: Utilizzando queste tecniche, puoi creare una linea temporale di base
 dettagliata e coerente, che aiuta a dare profondità e realismo al tuo
 mondo.
 
-== Definizione di eventi chiave
+=== Definizione di eventi chiave
 
 Per rendere la storia del tuo mondo avvincente e coerente, è
 fondamentale definire eventi chiave che influenzino il corso della sua
 evoluzione.
 
-=== Identificazione di punti di svolta storici
+==== Identificazione di punti di svolta storici
 
 [arabic]
 . *Punti di Svolta Critici*: Identifica i momenti che hanno cambiato
@@ -153,7 +153,7 @@ Una catastrofe naturale che ha spazzato via città e modificato il
 paesaggio desertico.
 ****
 
-=== Creazione di eventi che influenzano multiple sfere (politica, cultura, tecnologia)
+==== Creazione di eventi che influenzano multiple sfere (politica, cultura, tecnologia)
 
 [arabic]
 . *Eventi Multifacetati*: Crea eventi che influenzano vari aspetti del
@@ -171,7 +171,7 @@ influenzato la struttura politica e culturale della regione.
 rinascimento culturale e a una stabilità politica duratura.
 ****
 
-=== Come utilizzare gli eventi per creare tensioni e conflitti attuali
+==== Come utilizzare gli eventi per creare tensioni e conflitti attuali
 
 [arabic]
 . *Tensioni Storiche*: Usa eventi passati per spiegare tensioni e
@@ -189,7 +189,7 @@ nobili, nate da trattati infranti e alleanze tradite, continuano a
 influenzare la politica e la società. Questi conflitti storici
 alimentano intrighi e lotte di potere nel presente.
 
-=== Spiegazione dell’importanza della coerenza storica e come evitare anacronismi
+==== Spiegazione dell’importanza della coerenza storica e come evitare anacronismi
 
 [arabic]
 . *Coerenza Cronologica*: Mantieni una cronologia coerente per evitare
@@ -214,9 +214,9 @@ logico dalla loro fondazione alla situazione attuale, senza salti
 inspiegabili o anacronistici.
 ****
 
-== Esempio Pratico Completo: Creazione di Eventi Chiave
+=== Esempio Pratico Completo: Creazione di Eventi Chiave
 
-=== Identificazione di punti di svolta storici
+==== Identificazione di punti di svolta storici
 
 [arabic]
 . *La Battaglia di Shalah*:
@@ -236,7 +236,7 @@ devasta la regione, seppellendo città e alterando il paesaggio.
 * *Impatto*: Le tribù sono costrette a migrare e riorganizzarsi,
 portando a nuove alleanze e conflitti.
 
-=== Creazione di eventi che influenzano multiple sfere (politica, cultura, tecnologia)
+==== Creazione di eventi che influenzano multiple sfere (politica, cultura, tecnologia)
 
 [arabic]
 . *Rinascita Tecnologica*:
@@ -253,7 +253,7 @@ deserto.
 festival, tradizioni condivise e una maggiore cooperazione tecnologica
 per migliorare la vita nel deserto.
 
-=== Come utilizzare gli eventi per creare tensioni e conflitti attuali
+==== Come utilizzare gli eventi per creare tensioni e conflitti attuali
 
 [arabic]
 . *Conflitto per l’Acqua*:
@@ -268,7 +268,7 @@ nobili del passato.
 lotte di potere, influenzando le decisioni politiche e le alleanze nel
 presente.
 
-=== Spiegazione dell’importanza della coerenza storica e come evitare anacronismi
+==== Spiegazione dell’importanza della coerenza storica e come evitare anacronismi
 
 [arabic]
 . *Coerenza Cronologica*:
@@ -295,7 +295,7 @@ strutturati non solo danno profondità al tuo mondo, ma creano anche
 tensioni e conflitti che possono essere sfruttati per sviluppare trame
 avvincenti e personaggi complessi.
 
-=== Sviluppo di periodi storici significativi
+==== Sviluppo di periodi storici significativi
 
 Per arricchire la storia del tuo mondo e dare profondità alle sue
 culture e società, è fondamentale sviluppare periodi storici
@@ -303,7 +303,7 @@ significativi. Questo include la caratterizzazione di diverse ere,
 l’evoluzione di culture e società nel tempo, e la creazione di miti
 fondativi e leggende storiche.
 
-==== Caratterizzazione di diverse ere
+===== Caratterizzazione di diverse ere
 
 Quando sviluppi le ere del tuo mondo, è importante caratterizzarle in
 modo che ciascuna abbia una propria identità distintiva. Questo aiuta a
@@ -331,7 +331,7 @@ conflitti incessanti e disastri naturali. Le tribù lottano per la
 sopravvivenza e molte delle antiche città cadono in rovina.
 ****
 
-==== Evoluzione di culture e società nel tempo
+===== Evoluzione di culture e società nel tempo
 
 Le culture e le società del tuo mondo dovrebbero evolversi nel tempo,
 influenzate dagli eventi storici e dalle trasformazioni sociali.
@@ -359,7 +359,7 @@ economico e culturale. Le città si espandono, le arti fioriscono e
 emergono nuove forme di governo basate sulla cooperazione tra tribù.
 ****
 
-==== Creazione di "miti fondativi" e leggende storiche
+===== Creazione di "miti fondativi" e leggende storiche
 
 I miti fondativi e le leggende storiche aggiungono profondità e colore
 alla storia del tuo mondo. Questi racconti possono spiegare l’origine
@@ -395,7 +395,7 @@ avevano trascurato le antiche tradizioni. La tempesta durò per giorni e
 cambiò il volto del deserto.
 ****
 
-== Esempio Pratico Completo: Sviluppo di Periodi Storici Significativi
+=== Esempio Pratico Completo: Sviluppo di Periodi Storici Significativi
 
 .Caratterizzazione di diverse ere
 ****

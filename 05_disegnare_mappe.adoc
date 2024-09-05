@@ -93,9 +93,9 @@ essere abbastanza grande da giustificare un clima diverso su entrambi i
 lati.
 
 
-== Esempio Pratico Completo: Disegnare la Mappa di Shalah
+=== Esempio Pratico Completo: Disegnare la Mappa di Shalah
 
-=== Comprensione di Geografia e Geologia di Base
+==== Comprensione di Geografia e Geologia di Base
 
 [arabic]
 . *Formazione dei Terreni*:
@@ -110,7 +110,7 @@ caratterizzato da dune di sabbia e poche oasi.
 * *Oasi di Shalah*: Un bioma unico con palme, flora esotica e fauna che
 dipendono dall’acqua del fiume.
 
-=== Bilanciamento tra Realismo e Fantasia
+==== Bilanciamento tra Realismo e Fantasia
 
 [arabic]
 . *Elementi Fantastici*:
@@ -124,7 +124,7 @@ e nidi di draghi.
 Fluttuanti, con acque che brillano di notte. La sua origine mistica è
 legata ai cristalli energetici scoperti nelle rovine di Nekya.
 
-=== Importanza della Scala e delle Proporzioni
+==== Importanza della Scala e delle Proporzioni
 
 [arabic]
 . *Scala*:
@@ -143,7 +143,7 @@ realismo al tuo mondo. La comprensione della geografia e della geologia,
 il bilanciamento tra realismo e fantasia, e l’importanza della scala e
 delle proporzioni sono fondamentali per disegnare una mappa efficace.
 
-=== Strumenti e tecniche per il disegno di mappe
+==== Strumenti e tecniche per il disegno di mappe
 
 Per disegnare una mappa dettagliata e accattivante per il tuo mondo
 immaginario, è importante scegliere gli strumenti giusti e applicare
@@ -152,7 +152,7 @@ analogici, tecniche per rappresentare diversi tipi di terreno, la
 creazione di una legenda efficace e un confronto tra vari software di
 cartografia digitale.
 
-==== Panoramica di strumenti digitali e analogici
+===== Panoramica di strumenti digitali e analogici
 
 *Strumenti Analogici:*
 
@@ -182,7 +182,7 @@ e interattive.
 apprendimento.
 * *Procreate*: Ottimo per iPad, intuitivo e ricco di funzionalità.
 
-==== Tecniche per rappresentare diversi tipi di terreno
+===== Tecniche per rappresentare diversi tipi di terreno
 
 [arabic]
 . *Montagne*:
@@ -209,7 +209,7 @@ diversi tipi di insediamenti.
 * *Strumenti*: Penne a punta fine per i dettagli e pennarelli per
 colorare.
 
-==== Creazione di una legenda efficace
+===== Creazione di una legenda efficace
 
 [arabic]
 . *Semplicità e Chiarezza*: La legenda deve essere semplice e facile da
@@ -227,7 +227,7 @@ abbastanza grandi da essere facilmente leggibili.
 * *Proporzioni*: Mantieni le proporzioni dei simboli coerenti con quelli
 utilizzati nella mappa.
 
-==== Confronto tra vari software di cartografia digitale
+===== Confronto tra vari software di cartografia digitale
 
 *Inkarnate*: 
 
@@ -258,9 +258,9 @@ meno intuitiva, richiede tempo per padroneggiare.
 Generare rapidamente mappe mondiali con un alto grado di
 personalizzazione, ideale per worldbuilding su larga scala.
 
-== Esempio Pratico Completo: Disegnare la Mappa di Shalah
+=== Esempio Pratico Completo: Disegnare la Mappa di Shalah
 
-=== Strumenti Analogici
+==== Strumenti Analogici
 
 [arabic]
 . *Carta da Schizzo e Matite*:
@@ -275,7 +275,7 @@ aggiungendo curve e diramazioni.
 * *Proporzioni*: Utilizza la carta millimetrata per mantenere le
 proporzioni corrette tra le diverse aree geografiche.
 
-=== Strumenti Digitali
+==== Strumenti Digitali
 
 [arabic]
 . *Tavoletta Grafica e Software*:
@@ -284,7 +284,7 @@ integrate per aggiungere foreste, montagne e città.
 * *Wonderdraft*: Personalizza ulteriormente la mappa aggiungendo
 dettagli specifici come la Foresta Magica e le Montagne Fluttuanti.
 
-=== Tecniche per rappresentare diversi tipi di terreno
+==== Tecniche per rappresentare diversi tipi di terreno
 
 [arabic]
 . *Montagne del Nord*:
@@ -297,7 +297,7 @@ usa tonalità di blu per l’acqua.
 * *Tecnica*: Usa texture verdi e simboli di alberi bioluminescenti per
 rappresentare la foresta magica.
 
-=== Creazione di una legenda efficace
+==== Creazione di una legenda efficace
 
 [arabic]
 . *Semplicità e Chiarezza*:
@@ -307,7 +307,7 @@ rappresentare la foresta magica.
 * *Leggenda*: Posiziona la legenda nell’angolo inferiore destro, con
 simboli e colori coerenti con quelli usati nella mappa.
 
-=== Confronto tra vari software di cartografia digitale
+==== Confronto tra vari software di cartografia digitale
 
 [arabic]
 . *Inkarnate*:
@@ -328,7 +328,7 @@ strumenti analogici e digitali, applica tecniche efficaci per
 rappresentare vari tipi di terreno e crea una legenda chiara per
 migliorare la leggibilità della tua mappa.
 
-=== Bilanciare realismo e fantasia nella geografia
+==== Bilanciare realismo e fantasia nella geografia
 
 Creare una mappa che bilancia realismo e fantasia è fondamentale per
 rendere il tuo mondo credibile e affascinante. Vediamo come integrare
@@ -336,7 +336,7 @@ elementi fantastici in modo credibile, creare luoghi iconici e
 memorabili, considerare la logica interna della geografia e approfondire
 le tecniche per l’integrazione degli elementi fantastici.
 
-==== Integrazione di elementi fantastici in modo credibile
+===== Integrazione di elementi fantastici in modo credibile
 
 [arabic]
 . *Base Realistica*: Inizia con una base realistica per la tua
@@ -359,7 +359,7 @@ un fiume con proprietà magiche. Le piante bioluminescenti crescono solo
 in questa area grazie alla particolare composizione dell’acqua.
 ****
 
-==== Creazione di luoghi iconici e memorabili
+===== Creazione di luoghi iconici e memorabili
 
 [arabic]
 . *Unicità*: Crea luoghi con caratteristiche uniche che li distinguono
@@ -383,7 +383,7 @@ sacerdoti e rifugio per creature volanti. La leggenda narra che i
 cristalli furono donati dagli dei.
 ****
 
-==== Considerazioni sulla logica interna della geografia
+===== Considerazioni sulla logica interna della geografia
 
 [arabic]
 . *Coerenza*: Mantieni coerenza nelle caratteristiche geografiche e
@@ -406,7 +406,7 @@ l’accesso all’acqua. I commercianti utilizzano il fiume per il
 trasporto, e le risorse magiche del fiume sostengono l’economia locale.
 ****
 
-==== Integrare elementi fantastici in modo credibile
+===== Integrare elementi fantastici in modo credibile
 
 [arabic]
 . *Ragioni Geologiche e Magiche*: Fornisci spiegazioni che combinano
@@ -440,7 +440,7 @@ rigenera grazie a un ciclo naturale di purificazione magica del fiume e
 ai rituali svolti dagli abitanti.
 ****
 
-== Esempio Pratico Completo: Bilanciare Realismo e Fantasia nella Mappa di Shalah
+=== Esempio Pratico Completo: Bilanciare Realismo e Fantasia nella Mappa di Shalah
 
 .Integrazione di Elementi Fantastici in Modo Credibile
 ****

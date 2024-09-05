@@ -89,7 +89,7 @@ levitanti con templi sospesi e creature volanti.
 * *Caverne Cristalline*: Un’illustrazione delle caverne con cristalli
 luminosi e creature bioluminescenti.
 
-== Esempio Pratico Completo: Creazione di Regioni e Biomi Distinti per Shalah
+=== Esempio Pratico Completo: Creazione di Regioni e Biomi Distinti per Shalah
 
 
 .Definizione dei Principali Tipi di Terreno e Clima
@@ -158,14 +158,14 @@ ecosistemi unici, considera l’influenza della geografia su cultura e
 società e utilizza diagrammi e illustrazioni per dare vita ai tuoi
 biomi.
 
-=== Definizione di caratteristiche geografiche uniche
+==== Definizione di caratteristiche geografiche uniche
 
 La creazione di caratteristiche geografiche uniche rende il tuo mondo immaginario memorabile e avvincente. Vediamo come creare punti di
 riferimento naturali iconici, integrare elementi geografici nella storia
 e nella cultura, utilizzare la geografia per creare sfide e opportunità
 narrative, e tecniche per rendere i punti di riferimento memorabili.
 
-==== Creazione di punti di riferimento naturali iconici
+===== Creazione di punti di riferimento naturali iconici
 
 [arabic]
 . *Unicità e Visibilità*: I punti di riferimento dovrebbero essere unici
@@ -186,7 +186,7 @@ emettono una luce blu intensa. È visibile da chilometri di distanza ed è
 considerata sacra dagli abitanti locali.
 ****
 
-==== Integrazione di elementi geografici nella storia e nella cultura
+===== Integrazione di elementi geografici nella storia e nella cultura
 
 [arabic]
 . *Miti e Leggende*: Collega i punti di riferimento a miti e leggende.
@@ -207,7 +207,7 @@ festival ai piedi della torre per onorare gli dei e raccogliere i
 cristalli che cadono durante la cerimonia.
 ****
 
-==== Uso della geografia per creare sfide e opportunità narrative
+===== Uso della geografia per creare sfide e opportunità narrative
 
 [arabic]
 . *Barriere Naturali*: Utilizza montagne, fiumi e foreste come barriere
@@ -228,7 +228,7 @@ creature magiche e superando trappole naturali. Una volta lì, possono
 raccogliere cristalli rari che servono per una missione cruciale.
 ****
 
-==== Tecniche per rendere i punti di riferimento memorabili
+===== Tecniche per rendere i punti di riferimento memorabili
 
 [arabic]
 . *Descrizioni Sensoriali*: Usa tutti i cinque sensi per descrivere i
@@ -263,7 +263,7 @@ raccogliere un cristallo speciale che si forma solo una volta ogni cento
 anni, affrontando numerose prove lungo il percorso.
 ****
 
-== Esempio Pratico Completo: Definizione di Caratteristiche Geografiche Uniche per Shalah
+=== Esempio Pratico Completo: Definizione di Caratteristiche Geografiche Uniche per Shalah
 
 
 .Creazione di Punti di Riferimento Naturali Iconici
@@ -317,7 +317,7 @@ per creare sfide narrative e le tecniche per rendere i punti di
 riferimento memorabili ti aiuteranno a costruire un mondo ricco e
 affascinante.
 
-=== 6.3 Considerazioni climatiche e meteorologiche
+==== Considerazioni climatiche e meteorologiche
 
 Quando crei un mondo immaginario, è importante considerare il clima e i
 fenomeni meteorologici, poiché questi elementi influenzano profondamente
@@ -326,7 +326,7 @@ climatologia per mondi immaginari, la creazione di fenomeni
 meteorologici unici o magici, e l’impatto del clima sulla vita
 quotidiana e sull’economia.
 
-==== Basi di climatologia per mondi immaginari
+===== Basi di climatologia per mondi immaginari
 
 [arabic]
 . *Zone Climatiche*: Definisci diverse zone climatiche nel tuo mondo,
@@ -351,7 +351,7 @@ dai venti caldi del deserto e dalla mancanza di precipitazioni.
 frequenti e una leggera foschia magica che crea un microclima unico.
 ****
 
-==== Creazione di fenomeni meteorologici unici o magici
+===== Creazione di fenomeni meteorologici unici o magici
 
 [arabic]
 . *Tempeste Magiche*: Introduci tempeste con proprietà magiche, come
@@ -372,7 +372,7 @@ sollevano polvere magica che si condensa in cristalli luminescenti,
 creando spettacolari tempeste di luce.
 ****
 
-==== Impatto del clima sulla vita quotidiana e sull’economia
+===== Impatto del clima sulla vita quotidiana e sull’economia
 
 [arabic]
 . *Agricoltura e Risorse*: Il clima influenza i tipi di colture che
@@ -402,7 +402,7 @@ piante curative e magiche che vengono vendute ai mercanti. Le case sono
 costruite in armonia con la natura, usando legno e materiali naturali.
 ****
 
-== Esempio Pratico Completo: Considerazioni Climatiche e Meteorologiche per Shalah
+=== Esempio Pratico Completo: Considerazioni Climatiche e Meteorologiche per Shalah
 
 
 .Basi di Climatologia per Mondi Immaginari

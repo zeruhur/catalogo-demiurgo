@@ -96,7 +96,7 @@ influenzare il costo delle merci e la prosperità delle città lungo la
 rotta.
 ****
 
-== Esempio Pratico Completo: Definizione di Confini e Territori per Shalah
+=== Esempio Pratico Completo: Definizione di Confini e Territori per Shalah
 
 .Considerazioni sulla Formazione dei Confini (Naturali vs. Artificiali)
 ****
@@ -146,7 +146,7 @@ la creazione di zone contese e territori neutrali, e l’impatto dei
 confini sulla vita quotidiana e sul commercio contribuiranno a costruire
 un mondo complesso e realistico.
 
-=== Creazione di nazioni e stati
+==== Creazione di nazioni e stati
 
 Creare nazioni e stati nel tuo mondo immaginario è fondamentale per dare
 struttura e profondità alla tua ambientazione. Questo include lo
@@ -155,7 +155,7 @@ e centri di potere, la creazione di simboli nazionali e identità
 culturali, e la spiegazione dell’importanza dei simboli nazionali e come
 crearli.
 
-==== Sviluppo di sistemi di governo diversificati
+===== Sviluppo di sistemi di governo diversificati
 
 [arabic]
 . *Monarchia*: Un sistema di governo in cui un monarca (re, regina,
@@ -188,7 +188,7 @@ democratica con un presidente eletto e un parlamento che rappresenta i
 cittadini.
 ****
 
-==== Definizione di capitali e centri di potere
+===== Definizione di capitali e centri di potere
 
 [arabic]
 . *Capitali*: Le capitali sono le città principali dove risiede il
@@ -203,7 +203,7 @@ importanti.
 * *Esempio*: La Cittadella di Cristallo, un forte militare situato nelle
 Montagne del Nord, che protegge il regno dalle invasioni.
 
-==== Creazione di simboli nazionali e identità culturali
+===== Creazione di simboli nazionali e identità culturali
 
 [arabic]
 . *Bandiere e Stendardi*: I simboli visivi come bandiere e stendardi
@@ -225,7 +225,7 @@ popolo, le loro conquiste e i loro eroi.
 * *Esempio*: La leggenda del Drago di Shalah che ha protetto il regno
 dalle invasioni nemiche e ha portato prosperità.
 
-==== Spiegazione dell’importanza dei simboli nazionali e come crearli
+===== Spiegazione dell’importanza dei simboli nazionali e come crearli
 
 [arabic]
 . *Coesione Sociale*: I simboli nazionali rafforzano l’unità e
@@ -263,7 +263,7 @@ dettagli in argento per rappresentare la purezza e la lealtà.
 palazzo reale e viene esposta su tutti gli edifici governativi.
 ****
 
-== Esempio Pratico Completo: Creazione di Nazioni e Stati per Shalah
+=== Esempio Pratico Completo: Creazione di Nazioni e Stati per Shalah
 
 .Sviluppo di Sistemi di Governo Diversificati
 ****
@@ -333,14 +333,14 @@ potere, la creazione di simboli nazionali e identità culturali, e
 l’importanza dei simboli nazionali contribuiranno a costruire una
 geografia politica complessa e realistica.
 
-=== Dinamiche di potere e relazioni internazionali
+==== Dinamiche di potere e relazioni internazionali
 
 Le dinamiche di potere e le relazioni internazionali sono cruciali per
 creare un mondo immaginario complesso e realistico. Vediamo come elaborare
 alleanze e rivalità tra nazioni, creare organizzazioni internazionali o
 supernazionali, e gestire conflitti e diplomazia su scala globale.
 
-==== Elaborazione di alleanze e rivalità tra nazioni
+===== Elaborazione di alleanze e rivalità tra nazioni
 
 [arabic]
 . *Alleanze*: Le alleanze possono essere formate per vari motivi, come
@@ -372,7 +372,7 @@ culturali. La rivalità è alimentata da storie di vecchi conflitti e
 ingiustizie.
 ****
 
-==== Creazione di organizzazioni internazionali o supernazionali
+===== Creazione di organizzazioni internazionali o supernazionali
 
 [arabic]
 . *Organizzazioni Economiche*: Promuovono il commercio e la cooperazione
@@ -402,7 +402,7 @@ contro le invasioni esterne, organizza esercitazioni militari congiunte
 e condivide informazioni di intelligence.
 ****
 
-==== Gestione di conflitti e diplomazia su scala globale
+===== Gestione di conflitti e diplomazia su scala globale
 
 [arabic]
 . *Diplomazia*: L’arte di negoziare e mantenere relazioni pacifiche tra
@@ -430,7 +430,7 @@ trattato di pace.
 utilizzando la conoscenza del terreno e la mobilità delle tribù nomadi.
 ****
 
-== Esempio Pratico Completo: Dinamiche di Potere e Relazioni Internazionali per Shalah
+=== Esempio Pratico Completo: Dinamiche di Potere e Relazioni Internazionali per Shalah
 
 .Elaborazione di Alleanze e Rivalità tra Nazioni
 ****
