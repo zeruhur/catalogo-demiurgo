@@ -77,7 +77,7 @@ include::05_disegnare_mappe.adoc[]
 //
 = Dare spessore al mondo
 //
-include::06_geografia_fisica.adoc.adoc[]
+include::06_geografia_fisica.adoc[]
 //
 include::07_flora_fauna.adoc[]
 //
