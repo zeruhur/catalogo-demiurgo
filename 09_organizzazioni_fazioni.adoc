@@ -43,8 +43,8 @@ basata su merito.
 eletto dai membri anziani dell’ordine e ha l’ultima parola su tutte le
 decisioni religiose e politiche.
 
-*Approfondimento della Creazione di Strutture Gerarchiche e Leadership*:
-
+*Creazione di strutture gerarchiche e leadership*:
+****
 - *Livelli di Autorità*: Definisci chiaramente i vari livelli di
 autorità e i ruoli specifici di ciascun livello. 
 - *Criteri di Promozione*: Stabilisci criteri chiari per la promozione all’interno
@@ -52,6 +52,7 @@ dell’organizzazione, come anzianità, merito o elezione.
 - *Rappresentanza e Voto*: Se applicabile, descrivi come vengono prese le
 decisioni all’interno dell’organizzazione, inclusi i meccanismi di voto
 o consenso.
+****
 
 ==== Elaborazione di rituali e tradizioni interne
 

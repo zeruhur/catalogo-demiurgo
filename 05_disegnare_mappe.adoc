@@ -93,7 +93,6 @@ essere abbastanza grande da giustificare un clima diverso su entrambi i
 lati.
 
 
-
 == Esempio Pratico Completo: Disegnare la Mappa di Shalah
 
 === Comprensione di Geografia e Geologia di Base
@@ -129,11 +128,8 @@ legata ai cristalli energetici scoperti nelle rovine di Nekya.
 
 [arabic]
 . *Scala*:
-* *Determinare la Scala*: 1 cm sulla mappa rappresenta 10 km nel mondo
-reale. Questo aiuta a calcolare le distanze tra le città e i tempi di
-viaggio.
-* *Misurazioni*: Una città dista 5 cm (50 km) dall’oasi, il che
-significa un viaggio di circa due giorni a cavallo.
+* *Determinare la Scala*: Scale diverse aiutano a rappresentare estensioni differenti. Per esempio una scala di 1:250.000 è ottima per rappresentare regioni, ma se vuoi rappresentare nazioni o addirittura continenti dovrà usare scale più piccole.
+* *Misurazioni*: Le misurazioni sono determinate dalla scala, per es. in quella 1:10.0000, 1 cm rappresenta 10 m nella realtà.
 . *Proporzioni*:
 * *Mantieni le Proporzioni*: Le Montagne del Nord occupano un’area
 significativa rispetto alle città e ai fiumi, conferendo loro la giusta
@@ -322,7 +318,7 @@ pronte all’uso.
 * *Pro*: Elevato grado di personalizzazione, buono per mappe di alta
 qualità.
 * *Contro*: Meno risorse integrate rispetto ad altri.
-. *Azgaar Fantasy Map Generator*:
+. *Azgaar's Fantasy Map Generator*:
 * *Pro*: Generazione automatica e molte opzioni di personalizzazione.
 * *Contro*: Interfaccia meno intuitiva.
 
