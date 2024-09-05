@@ -2,8 +2,8 @@
 = Il catalogo del Demiurgo: Guida Pratica alla Creazione di Mondi
 :author: Roberto Bisceglie
 //:email: author@example.com
-:revnumber: v0.2
-:revdate: 25/07/2024
+:revnumber: v0.9
+:revdate: 05/09/2024
 :data-uri:
 //:description: 
 //
