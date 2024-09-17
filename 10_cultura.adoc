@@ -73,7 +73,7 @@ religione e i valori di ogni gruppo.
 commerciale a Nekya, mentre il Festival del Drago onora il drago
 protettore di Shalah con processioni e fuochi d’artificio.
 
-== Esempio Pratico Completo: Creazione di Gruppi Etnici e Culturali per Shalah
+=== Esempio Pratico Completo: Creazione di Gruppi Etnici e Culturali per Shalah
 
 .Sviluppo di Lingue, Dialetti e Sistemi di Scrittura
 ****
@@ -128,7 +128,7 @@ Nekya con mercati e fiere.
 processioni, danze e fuochi d’artificio.
 ****
 
-== Tecniche per Creare Lingue Fittizie (Conlang)
+=== Tecniche per Creare Lingue Fittizie (Conlang)
 
 [arabic]
 . *Definizione della Fonetica*: Stabilire i suoni unici della lingua.
@@ -148,7 +148,7 @@ frasi.
 
 NOTE: Lo sviluppo di lingue, dialetti e sistemi di scrittura, la definizione di tratti fisici e culturali distintivi, la creazione di costumi, tradizioni e festività, e l'uso di tecniche e software per creare lingue fittizie contribuiranno a costruire un mondo variegato e coinvolgente.
 
-=== Sviluppo di sistemi sociali e strutture familiari
+==== Sviluppo di sistemi sociali e strutture familiari
 
 Per creare un mondo immaginario ricco e credibile, è essenziale sviluppare
 sistemi sociali e strutture familiari. Questo include l’elaborazione di
@@ -156,7 +156,7 @@ classi sociali e sistemi di casta, la definizione di ruoli di genere e
 strutture familiari, e la creazione di sistemi educativi e di
 apprendistato.
 
-==== Elaborazione di classi sociali e sistemi di casta
+===== Elaborazione di classi sociali e sistemi di casta
 
 [arabic]
 . *Classi Sociali*: Definisci le diverse classi sociali all’interno
@@ -183,7 +183,7 @@ per un individuo cambiare classe o casta.
 Definisci i diritti e i privilegi associati a ciascuna classe o casta.
 ****
 
-==== Definizione di ruoli di genere e strutture familiari
+===== Definizione di ruoli di genere e strutture familiari
 
 [arabic]
 . *Ruoli di Genere*: Definisci i ruoli di genere all’interno della
@@ -208,7 +208,7 @@ famiglie.
 influenzano le relazioni sociali e il sostegno comunitario.
 ****
 
-==== Creazione di sistemi educativi e di apprendistato
+===== Creazione di sistemi educativi e di apprendistato
 
 [arabic]
 . *Sistemi Educativi*: Descrivi come l’istruzione è organizzata e
@@ -231,7 +231,7 @@ all’istruzione e come questo varia tra le diverse classi sociali.
 istruzione e nei programmi di apprendistato.
 ****
 
-== Esempio Pratico Completo: Sviluppo di Sistemi Sociali e Strutture Familiari per Shalah
+=== Esempio Pratico Completo: Sviluppo di Sistemi Sociali e Strutture Familiari per Shalah
 
 .Elaborazione di Classi Sociali e Sistemi di Casta
 ****
@@ -299,7 +299,7 @@ qualificato.
 
 NOTE: L'elaborazione di classi sociali e sistemi di casta, la definizione di ruoli di genere e strutture familiari, e la creazione di sistemi educativi e di apprendistato contribuiranno a costruire una società ricca e complessa.
 
-=== Definizione di pratiche religiose e sistemi di credenze
+==== Definizione di pratiche religiose e sistemi di credenze
 
 Per costruire un mondo secondario convincente e ricco, è fondamentale
 definire le pratiche religiose e i sistemi di credenze. Questo include
@@ -308,7 +308,7 @@ e luoghi sacri, l’esplorazione del ruolo della religione nella società e
 nella politica, e la spiegazione dettagliata di come sviluppare rituali,
 cerimonie e luoghi sacri.
 
-==== Creazione di pantheon e mitologie
+===== Creazione di pantheon e mitologie
 
 [arabic]
 . *Pantheon*: Definisci un insieme di divinità che governano vari
@@ -333,7 +333,7 @@ simboli e le aree di influenza di ciascuna divinità.
 eroi e creature mitologiche.
 ****
 
-==== Sviluppo di rituali, cerimonie e luoghi sacri
+===== Sviluppo di rituali, cerimonie e luoghi sacri
 
 [arabic]
 . *Rituali*: Definisci pratiche religiose quotidiane o periodiche che i
@@ -378,7 +378,7 @@ montagne, sorgenti sacre, foreste incantate).
 ** *Accessibilità*: Decidi se i luoghi sacri sono aperti a tutti o
 riservati a pochi eletti.
 
-==== Esplorazione del ruolo della religione nella società e nella politica
+===== Esplorazione del ruolo della religione nella società e nella politica
 
 [arabic]
 . *Ruolo Sociale*: La religione può influenzare la vita quotidiana, le
@@ -400,7 +400,7 @@ influenza le norme sociali, i costumi e le festività.
 ruolo nelle decisioni governative.
 ****
 
-== Esempio Pratico Completo: Pratiche Religiose e Sistemi di Credenze per Shalah
+=== Esempio Pratico Completo: Pratiche Religiose e Sistemi di Credenze per Shalah
 
 .Creazione di Pantheon e Mitologie
 ****

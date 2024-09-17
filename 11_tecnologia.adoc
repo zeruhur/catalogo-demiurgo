@@ -76,9 +76,9 @@ a sviluppare una narrativa coerente.
 aumentato notevolmente durante un periodo di guerra, mentre lo sviluppo
 tecnologico è rimasto stagnante.
 
-== Esempio Pratico Completo: Determinazione del Livello Tecnologico per Shalah
+=== Esempio Pratico Completo: Determinazione del Livello Tecnologico per Shalah
 
-=== Definizione della "Linea di Base" Tecnologica del Mondo
+==== Definizione della "Linea di Base" Tecnologica del Mondo
 
 [arabic]
 . *Epoca Tecnologica*:
@@ -90,7 +90,7 @@ da mischia e costruzioni in pietra.
 * *Catapulte e Balestre*: Usate nella guerra.
 * *Carrozze Trainate da Cavalli*: Principale mezzo di trasporto.
 
-=== Considerazioni su Come la Magia Influenza lo Sviluppo Tecnologico
+==== Considerazioni su Come la Magia Influenza lo Sviluppo Tecnologico
 
 [arabic]
 . *Sostituzione della Tecnologia con la Magia*:
@@ -103,7 +103,7 @@ veloci.
 * *Esaurimento delle Risorse Magiche*: L’uso eccessivo di magia può
 portare a carenze, spingendo a sviluppare tecnologie alternative.
 
-=== Creazione di Tecnologie Anacronistiche o Futuristiche in Contesti Storici
+==== Creazione di Tecnologie Anacronistiche o Futuristiche in Contesti Storici
 
 [arabic]
 . *Tecnologie Anacronistiche*:
@@ -125,7 +125,7 @@ armi incantate durante le guerre.
 magia ha superato la tecnologia o viceversa, aiutando a sviluppare una
 narrativa coerente.
 
-=== Creazione di tecnologie uniche o magiche
+==== Creazione di tecnologie uniche o magiche
 
 Creare tecnologie uniche o magiche aggiunge un elemento di meraviglia e
 originalità al tuo mondo immaginario. Questo include lo sviluppo di
@@ -134,7 +134,7 @@ magici nella tecnologia, e le considerazioni etiche e sociali delle
 nuove tecnologie. Approfondiremo anche le implicazioni etiche e sociali
 di queste nuove tecnologie.
 
-==== Sviluppo di invenzioni fantastiche e loro impatto
+===== Sviluppo di invenzioni fantastiche e loro impatto
 
 [arabic]
 . *Descrizione delle Invenzioni*: Dettaglia le caratteristiche uniche
@@ -150,7 +150,7 @@ influenzano la società, l’economia, la guerra e la vita quotidiana.
 la diplomazia e il commercio, permettendo comunicazioni rapide e sicure
 tra regni lontani.
 
-==== Integrazione di elementi magici nella tecnologia
+===== Integrazione di elementi magici nella tecnologia
 
 [arabic]
 . *Magia come Fonte di Energia*: La magia può essere utilizzata come
@@ -167,7 +167,7 @@ potenziarne l’efficacia.
 * *Esempio*: Le spade incantate di Shalah, che possono tagliare
 attraverso la pietra e emettere fiamme magiche.
 
-==== Considerazioni etiche e sociali delle nuove tecnologie
+===== Considerazioni etiche e sociali delle nuove tecnologie
 
 [arabic]
 . *Disuguaglianze Sociali*: L’introduzione di nuove tecnologie può
@@ -225,7 +225,7 @@ essere utilizzati per opprimere le popolazioni locali o condurre guerre
 ingiuste.
 ****
 
-== Esempio Pratico Completo: Creazione di Tecnologie Uniche o Magiche per Shalah
+=== Esempio Pratico Completo: Creazione di Tecnologie Uniche o Magiche per Shalah
 
 .Sviluppo di Invenzioni Fantastiche e Loro Impatto
 ****
@@ -301,7 +301,7 @@ di elementi magici nella tecnologia, e le considerazioni etiche e
 sociali delle nuove tecnologie contribuiranno a costruire un mondo ricco
 e complesso.
 
-=== Impatto della tecnologia sulla società e l’economia
+==== Impatto della tecnologia sulla società e l’economia
 
 L’introduzione di nuove tecnologie può avere un profondo impatto sulla
 società e sull’economia di un mondo immaginario. Esploriamo come le
@@ -309,7 +309,7 @@ innovazioni cambiano la vita quotidiana, gli effetti della tecnologia su
 guerra e conflitti, e il ruolo della tecnologia nel commercio e nella
 comunicazione.
 
-==== Come le innovazioni cambiano la vita quotidiana
+===== Come le innovazioni cambiano la vita quotidiana
 
 [arabic]
 . *Miglioramento della Qualità della Vita*: Le nuove tecnologie possono
@@ -330,7 +330,7 @@ competenze e offrendo nuove opportunità.
 strumenti magici e tecnologie avanzate, preparando una nuova generazione
 di lavoratori specializzati.
 
-==== Effetti della tecnologia su guerra e conflitti
+===== Effetti della tecnologia su guerra e conflitti
 
 [arabic]
 . *Armi Avanzate*: L’introduzione di nuove armi può rendere i conflitti
@@ -349,7 +349,7 @@ coordinamento delle truppe.
 Shalah di coordinare le truppe in tempo reale, migliorando l’efficacia
 delle operazioni militari.
 
-==== Ruolo della tecnologia nel commercio e nella comunicazione
+===== Ruolo della tecnologia nel commercio e nella comunicazione
 
 [arabic]
 . *Espansione del Commercio*: Le nuove tecnologie possono aprire nuove
@@ -369,7 +369,7 @@ lavoro.
 economico chiave a Shalah, creando posti di lavoro e stimolando la
 ricerca e lo sviluppo.
 
-== Esempio Pratico Completo: Impatto della Tecnologia sulla Società e l’Economia di Shalah
+=== Esempio Pratico Completo: Impatto della Tecnologia sulla Società e l’Economia di Shalah
 
 .Come le Innovazioni Cambiano la Vita Quotidiana
 ****
