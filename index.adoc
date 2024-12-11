@@ -2,8 +2,8 @@
 = Il catalogo del Demiurgo: Guida Pratica alla Creazione di Mondi
 :author: Roberto Bisceglie
 //:email: author@example.com
-:revnumber: v0.11
-:revdate: 17/09/2024
+:revnumber: v0.18
+:revdate: 12/12/2024
 :data-uri:
 //:description: 
 //
@@ -33,8 +33,9 @@
 //:notitle:
 //
 //
+:part-signifier: Parte
 // Prefix nmbered chapter titles with "Chapter"
-:chapter-label: Capitolo
+:chapter-signifier: Capitolo
 //
 // Add a table of contents
 :toc: left
@@ -66,6 +67,10 @@ include::01_introduzione.adoc[]
 :sectnums:
 //
 = Le basi dell'ambientazione
+<<<
+<<<
+<<<
+<<<        
 //
 include::02_nucleo_ambientazione.adoc[]
 //
@@ -76,6 +81,8 @@ include::04_cronologia_storia.adoc[]
 include::05_disegnare_mappe.adoc[]
 //
 = Dare spessore al mondo
+<<<
+<<<
 //
 include::06_geografia_fisica.adoc[]
 //
@@ -89,10 +96,22 @@ include::10_cultura.adoc[]
 //
 include::11_tecnologia.adoc[]
 //
+include::12_economia.adoc[]
+//
+include::13_magia_poteri.adoc[]
+//
+include::14_miti_leggende.adoc[]
+//
+include::15_creature.adoc[]
+//
+include::16_esercizi.adoc[]
+//
+include::17_conclusione.adoc[]
+//
 :sectnums!:
 :partnums!:
 //
-//include::appendice.adoc[]
+include::99_appendici.adoc[]
 //
 //== Bibliografia
 //bibliography::[]

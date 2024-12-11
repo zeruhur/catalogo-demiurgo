@@ -87,7 +87,7 @@ corporazioni che regolano i mestieri e proteggono gli interessi dei
 lavoratori.
 ****
 
-== Esempio Pratico Completo: Economia e Commercio di Shalah
+=== Esempio Pratico Completo: Economia e Commercio di Shalah
 
 .Identificazione di Risorse Naturali Chiave e Loro Distribuzione
 ****
@@ -118,7 +118,7 @@ commercianti che vogliono accesso alle risorse.
 preservare le risorse delle oasi.
 ****
 
-=== Creazione di Beni di Lusso e Prodotti Esotici
+==== Creazione di Beni di Lusso e Prodotti Esotici
 
 [arabic]
 . *Beni di Lusso*:
@@ -140,7 +140,7 @@ li rende estremamente preziosi, con un mercato controllato dai nobili.
 attraversano le oasi e collegano Shalah ai regni vicini.
 ****
 
-=== Sviluppo di Industrie e Mestieri Specializzati
+==== Sviluppo di Industrie e Mestieri Specializzati
 
 [arabic]
 . *Industrie Principali*:
@@ -265,14 +265,18 @@ pirateria.
 di monopolizzare il commercio delle spezie, portando a blocchi economici
 e scontri navali.
 
-*Approfondimento*: - *Sostenibilità Economica*: Considera le pratiche di
+.*Approfondimento*
+****
+ - *Sostenibilità Economica*: Considera le pratiche di
 commercio sostenibile e come le nazioni gestiscono le risorse per
-evitare l’esaurimento. - *Influenza Politica*: Esamina come il commercio
+evitare l’esaurimento. 
+- *Influenza Politica*: Esamina come il commercio
 e l’economia influenzano la politica e le relazioni internazionali.
+****
 
-== Esempio Pratico Completo: Rotte Commerciali e Centri Economici di Shalah
+=== Esempio Pratico Completo: Rotte Commerciali e Centri Economici di Shalah
 
-=== Disegno di Vie Commerciali Terrestri e Marittime
+==== Disegno di Vie Commerciali Terrestri e Marittime
 
 [arabic]
 . *Vie Commerciali Terrestri*:
@@ -288,13 +292,17 @@ richieste.
 con simboli che indicano le principali città mercantili e i porti
 commerciali.
 
-*Approfondimento*: - *Terreno e Ostacoli*: La Via delle Spezie
+.*Approfondimento*
+****
+- *Terreno e Ostacoli*: La Via delle Spezie
 attraversa deserti e montagne, con carovane protette da guardie
-mercenarie. - *Sicurezza e Protezione*: Pattuglie regolari e
+mercenarie. 
+- *Sicurezza e Protezione*: Pattuglie regolari e
 fortificazioni lungo la Via delle Spezie proteggono i commercianti dai
 briganti.
+****
 
-=== Sviluppo di Città Mercantili e Porti Commerciali
+==== Sviluppo di Città Mercantili e Porti Commerciali
 
 [arabic]
 . *Città Mercantili*:
@@ -309,12 +317,16 @@ navi mercantili.
 * *Oasis City*: Banca centrale, case di cambio per diverse valute,
 numerose locande per ospitare i mercanti.
 
-*Approfondimento*: - *Crescita Urbana*: Oasis City è cresciuta
+.*Approfondimento*
+****
+- *Crescita Urbana*: Oasis City è cresciuta
 rapidamente grazie al commercio, attirando mercanti, artigiani e
-lavoratori. - *Diversità Culturale*: La città ospita comunità di diverse
+lavoratori. 
+- *Diversità Culturale*: La città ospita comunità di diverse
 culture, creando un ambiente multiculturale e dinamico.
+****
 
-=== Considerazioni su Commercio Internazionale e Diplomazia Economica
+==== Considerazioni su Commercio Internazionale e Diplomazia Economica
 
 [arabic]
 . *Trattati Commerciali*:
@@ -329,17 +341,16 @@ vicini per garantire accesso a nuove rotte commerciali e risorse.
 monopolizzare il commercio delle spezie, portando a blocchi economici e
 scontri navali.
 
-*Approfondimento*: - *Sostenibilità Economica*: Shalah adotta pratiche
+.*Approfondimento*
+****
+- *Sostenibilità Economica*: Shalah adotta pratiche
 di commercio sostenibile per evitare l’esaurimento delle risorse
-naturali. - *Influenza Politica*: Il commercio delle spezie conferisce a
+naturali. 
+- *Influenza Politica*: Il commercio delle spezie conferisce a
 Shalah una grande influenza politica nelle relazioni internazionali.
+****
 
-Il disegno di vie commerciali terrestri e marittime, lo sviluppo di
-città mercantili e porti commerciali, e le considerazioni su commercio
-internazionale e diplomazia economica contribuiranno a costruire
-un’economia ricca e interconnessa.
-
-=== 12.3 Sviluppo di sistemi monetari e pratiche commerciali
+=== Sviluppo di sistemi monetari e pratiche commerciali
 
 Creare sistemi monetari e pratiche commerciali solidi è essenziale per
 rendere l’economia del tuo mondo immaginario credibile e funzionale. Questo
@@ -367,11 +378,15 @@ altri beni di valore.
 * *Esempio*: Il valore del Draco d’Oro è stabilizzato dalle riserve
 d’oro detenute nei tesori reali di Shalah.
 
-*Approfondimento*: - *Inflazione e Deflazione*: Analizza come
+.*Approfondimento*
+****
+- *Inflazione e Deflazione*: Analizza come
 l’inflazione e la deflazione influenzano l’economia e il valore delle
-valute. - *Scambio Internazionale*: Descrivi come le valute vengono
+valute. 
+- *Scambio Internazionale*: Descrivi come le valute vengono
 scambiate tra diverse nazioni e culture, e come vengono stabiliti i
 tassi di cambio.
+****
 
 ==== Elaborazione di pratiche bancarie e sistemi di credito
 
@@ -394,10 +409,13 @@ meccanismi per prevenire frodi e insolvibilità.
 che impone standard di sicurezza e supervisione per proteggere i
 depositi dei cittadini.
 
-*Approfondimento*: - *Tassi di Interesse*: Analizza come vengono
-stabiliti i tassi di interesse per prestiti e depositi. - *Rischi e
-Garanzie*: Descrivi i rischi associati ai prestiti e le garanzie
+.*Approfondimento*
+****
+- *Tassi di Interesse*: Analizza come vengono
+stabiliti i tassi di interesse per prestiti e depositi. 
+- *Rischi e Garanzie*: Descrivi i rischi associati ai prestiti e le garanzie
 richieste dalle banche per concedere credito.
+****
 
 ==== Sviluppo di gilde mercantili e monopoli commerciali
 
@@ -419,17 +437,18 @@ sono regolamentati e come gestiscono i conflitti interni ed esterni.
 risolve le dispute tra i membri e negozia con le altre gilde per evitare
 conflitti commerciali.
 
-*Approfondimento*: - *Vantaggi e Svantaggi*: Analizza i vantaggi e gli
+.*Approfondimento*
+****
+ - *Vantaggi e Svantaggi*: Analizza i vantaggi e gli
 svantaggi dei monopoli commerciali e delle gilde, considerando la loro
-efficienza e il loro potenziale per creare disuguaglianze. - *Influenza
-Politica*: Esplora come le gilde mercantili e i monopoli influenzano la
+efficienza e il loro potenziale per creare disuguaglianze. 
+- *Influenza Politica*: Esplora come le gilde mercantili e i monopoli influenzano la
 politica e le decisioni governative.
+****
 
-""'
+=== Esempio Pratico Completo: Sistemi Monetari e Pratiche Commerciali di Shalah
 
-== Esempio Pratico Completo: Sistemi Monetari e Pratiche Commerciali di Shalah
-
-=== Creazione di Valute e Sistemi di Baratto
+==== Creazione di Valute e Sistemi di Baratto
 
 [arabic]
 . *Valute*:
@@ -443,13 +462,17 @@ spezie, tessuti e prodotti agricoli senza l’uso di moneta.
 * *Riserve d’Oro*: Il valore del Draco d’Oro è stabilizzato dalle
 riserve d’oro detenute nei tesori reali di Shalah.
 
-*Approfondimento*: - *Inflazione e Deflazione*: L’inflazione può
+.*Approfondimento*
+****
+- *Inflazione e Deflazione*: L’inflazione può
 verificarsi se troppi Draci d’Oro vengono coniati senza adeguate riserve
-d’oro. - *Scambio Internazionale*: Il Draco d’Oro viene scambiato con
+d’oro. 
+- *Scambio Internazionale*: Il Draco d’Oro viene scambiato con
 altre valute nelle case di cambio, con tassi di cambio stabiliti dal
 mercato.
+****
 
-=== Elaborazione di Pratiche Bancarie e Sistemi di Credito
+==== Elaborazione di Pratiche Bancarie e Sistemi di Credito
 
 [arabic]
 . *Banche*:
@@ -462,12 +485,15 @@ transazioni senza dover trasportare grandi quantità di monete.
 * *Regolamentazione Governativa*: La Banca Centrale è regolamentata dal
 governo per garantire sicurezza e prevenire frodi.
 
-*Approfondimento*: - *Tassi di Interesse*: La Banca Centrale stabilisce
-tassi di interesse per i prestiti basati sulle condizioni economiche. -
-*Rischi e Garanzie*: I prestiti richiedono garanzie come terreni o beni
+.*Approfondimento*
+****
+- *Tassi di Interesse*: La Banca Centrale stabilisce
+tassi di interesse per i prestiti basati sulle condizioni economiche. 
+- *Rischi e Garanzie*: I prestiti richiedono garanzie come terreni o beni
 preziosi per mitigare i rischi.
+****
 
-=== Sviluppo di Gilde Mercantili e Monopoli Commerciali
+==== Sviluppo di Gilde Mercantili e Monopoli Commerciali
 
 [arabic]
 . *Gilde Mercantili*:
@@ -481,13 +507,13 @@ concorrenza.
 * *Consiglio degli Anziani*: La Gilda dei Mercanti ha un consiglio che
 risolve le dispute tra i membri e negozia con altre gilde.
 
-*Approfondimento*: - *Vantaggi e Svantaggi*: I monopoli possono
+.*Approfondimento*
+****
+- *Vantaggi e Svantaggi*: I monopoli possono
 garantire la qualità ma anche creare disuguaglianze e limitare la
-concorrenza. - *Influenza Politica*: La Gilda dei Mercanti ha una grande
+concorrenza. 
+- *Influenza Politica*: La Gilda dei Mercanti ha una grande
 influenza sulle decisioni governative, utilizzando il suo potere
 economico per influenzare la politica.
+****
 
-La creazione di valute e sistemi di baratto, l’elaborazione di pratiche
-bancarie e sistemi di credito, e lo sviluppo di gilde mercantili e
-monopoli commerciali contribuiranno a costruire un’economia ricca e
-complessa.

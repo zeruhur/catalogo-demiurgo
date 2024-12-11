@@ -15,7 +15,7 @@ font:
       italic: GEM_FONTS_DIR/mplus1mn-italic-subset.ttf
       bold_italic: GEM_FONTS_DIR/mplus1mn-bold_italic-subset.ttf
 page:
-  size: [7in, 10in]
+  size: [6in, 9in]
   margin: [1in, 1in, 1in, 1in]
   margin-inner: 0.5in
   numbering:

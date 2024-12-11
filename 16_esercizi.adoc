@@ -1,4 +1,4 @@
-== 16. Esercizi e Attività Pratiche
+== Esercizi e Attività Pratiche
 
 I capitoli precedenti hanno fornito una solida base teorica e pratica
 per la creazione del tuo mondo. Ora è il momento di mettere in pratica
@@ -8,7 +8,7 @@ worldbuilding. Questi esercizi ti aiuteranno a sviluppare ulteriormente
 il tuo mondo, a verificare la coerenza delle tue idee e a migliorare
 continuamente la tua ambientazione.
 
-=== 16.1 Esercizi di Brainstorming e Creatività
+=== Esercizi di Brainstorming e Creatività
 
 ==== Generazione di Idee
 
@@ -69,7 +69,7 @@ vengono poi scambiati e sviluppati ulteriormente dagli altri. Questo
 metodo permette a tutti di contribuire senza la pressione di parlare ad
 alta voce.
 
-=== 16.2 Attività per Testare e Raffinare i Concetti dell’Ambientazione
+=== Attività per Testare e Raffinare i Concetti dell’Ambientazione
 
 ==== Playtest di Scene o Moduli di Gioco
 
@@ -111,7 +111,7 @@ Questo ti aiuta a capire la resilienza e la flessibilità del tuo mondo.
 e coinvolgente. Assicurati che ci siano connessioni chiare tra gli
 eventi e che le motivazioni dei personaggi siano coerenti.
 
-=== 16.3 Sfide di Worldbuilding per Mettere in Pratica le Tecniche Apprese
+=== Sfide di Worldbuilding per Mettere in Pratica le Tecniche Apprese
 
 ==== Sfida della Creazione di una Città
 
@@ -164,3 +164,4 @@ catene alimentari e le relazioni simbiotiche?
 . *Impatto Ambientale*: Analizza l’impatto di eventi esterni
 sull’ecosistema. Come reagisce l’ecosistema a cambiamenti climatici,
 disastri naturali o interventi umani?
+

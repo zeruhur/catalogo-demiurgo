@@ -1,6 +1,6 @@
-== 17. Conclusione
+== Conclusione
 
-=== 17.1 Riepilogo dei Punti Chiave
+=== Riepilogo dei Punti Chiave
 
 Questo manuale ha esplorato in dettaglio i numerosi aspetti del
 worldbuilding, fornendoti strumenti e tecniche per creare ambientazioni
@@ -149,7 +149,7 @@ commerciali.
 * ☐ Ho creato rotte commerciali e centri economici?
 * ☐ Ho sviluppato sistemi monetari e pratiche commerciali?
 
-=== 17.2 Consigli per l’Implementazione e l’Uso dell’Ambientazione
+=== Consigli per l’Implementazione e l’Uso dell’Ambientazione
 
 Dopo aver creato un’ambientazione dettagliata e coerente, il passo
 successivo è implementarla efficacemente nei tuoi progetti. Che tu sia
@@ -253,7 +253,7 @@ Mostra come le azioni dei personaggi influenzano il mondo.- Rivedi e
 aggiorna periodicamente l’ambientazione.
 |===
 
-=== 17.3 Incoraggiamento alla Creatività e all’Adattamento
+=== Incoraggiamento alla Creatività e all’Adattamento
 
 La creazione di un mondo fantastico è un viaggio affascinante e
 personale. In questo capitolo finale, ti incoraggiamo a prendere le
@@ -331,7 +331,7 @@ mondo.
 * *Aeon Timeline*: Un’applicazione per gestire linee temporali
 complesse.
 
-== Commiato
+=== Commiato
 
 Il mondo che hai creato è un riflesso della tua immaginazione e del tuo
 impegno. Ricorda che il worldbuilding è un processo continuo di scoperta
@@ -345,3 +345,4 @@ crescere e evolversi insieme a te, offrendo infinite possibilità per
 storie avvincenti e avventure memorabili.
 
 Buon worldbuilding e che i tuoi mondi fioriscano e prosperino!
+
